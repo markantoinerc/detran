@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Assinale a alternativa correta. A força centrípeta, aderência e a transferência de massa, são:",
+    "opcoes": [
+      "Condições adversas.",
+      "Automatismos corretos.",
+      "Leis da física que se relacionam ao ato de dirigir.",
+      "Atos inseguros do motorista."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 2,
+    "pergunta": "Para evitar colisões nos cruzamentos é fundamental:",
+    "opcoes": [
+      "Aumentar a velocidade.",
+      "Olhar primeiro para a direita e avançar.",
+      "Respeitar a preferência.",
+      "Diminuir a velocidade e buzinar."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 3,
+    "pergunta": "É atitude do condutor defensivo, quando ingerir bebida alcóolica:",
+    "opcoes": [
+      "Dirigir redobrando os cuidados.",
+      "Dirigir, somente, se estiver acompanhado.",
+      "Tomar banho bem frio ou molhar a cabeça para despertar, antes de começar a dirigir.",
+      "Não dirigir o veículo, pedindo a outro condutor habilitado que realize tal atitude."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 4,
+    "pergunta": "A maioria dos acidentes está associada à condição adversa do condutor. A grande maioria deles é causada por:",
+    "opcoes": [
+      "Falhas mecânicas.",
+      "Deficiência da via.",
+      "Falta de sinalização.",
+      "Falhas humanas."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 5,
+    "pergunta": "Assinale a alternativa incorreta. Dirigir na defensiva é:",
+    "opcoes": [
+      "Dirigir atento às ações imprevisíveis dos demais usuários.",
+      "Dirigir impondo os seus direitos.",
+      "Dirigir educado e seguro.",
+      "Dirigir respeitando a legislação."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 6,
+    "pergunta": "Tempo de reação é aquele que transcorre entre:",
+    "opcoes": [
+      "Tempo aproximado de 3/4 de segundo.",
+      "Acionar o freio e parar.",
+      "Ver o perigo e tomar providências.",
+      "Perceber o perigo e parar."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 7,
+    "pergunta": "Valorizar comportamentos necessários à segurança no trânsito é:",
+    "opcoes": [
+      "Desnecessário à segurança no trânsito.",
+      "Dever do governo e não dos condutores.",
+      "Demonstração de respeito à pessoa humana.",
+      "A necessidade de desconsiderar as diferenças individuais."
+    ],
+    "resposta_correta": "C",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 8,
+    "pergunta": "O condutor que, na direção do veículo, evita situações de acidentes ao trafegar com as devidas margens de segurança, estará fazendo uma “direção defensiva”.",
+    "opcoes": [
+      "Corretiva.",
+      "Avaliativa.",
+      "Participativa.",
+      "Preventiva."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 9,
+    "pergunta": "Assinale a alternativa que responda à questão. A chuva é condição adversa do ______, lâmina d'água na pista é condição adversa da ______, possibilitando a ocorrência de hidroplanagem que pode ser aumentada por determinadas condições adversas do ______.",
+    "opcoes": [
+      "Veículo; via; condutor.",
+      "Tempo; via; veículo.",
+      "Condutor; máquina; passageiro.",
+      "veículo; chuva; tempo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 10,
+    "pergunta": "Automatismo correto significa:",
+    "opcoes": [
+      "Atenção fixa.",
+      "Atenção dispersiva.",
+      "Gesto inconsciente efetuado de forma segura.",
+      "Indisciplina na condução do veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 11,
+    "pergunta": "Fator que não altera a aderência é:",
+    "opcoes": [
+      "Tipo de solo.",
+      "Tipo de combustível.",
+      "Chuva.",
+      "Calibragem dos pneus."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 12,
+    "pergunta": "O procedimento correto em um declive acentuado é:",
+    "opcoes": [
+      "Utilizar o “ponto morto”.",
+      "Utilizar a mesma marcha que seria necessária no caso de um aclive acentuado.",
+      "Testar o acelerador e desengrenar o veículo.",
+      "Desligar o motor do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 13,
+    "pergunta": "Chove forte e o limpador de parabrisa de seu veículo não está sendo suficiente para manter a visibilidade. Nessa situação você:",
+    "opcoes": [
+      "Abre as janelas e prossegue o trajeto.",
+      "Acelera mais para dissipar os pingos de chuva.",
+      "Para o veículo em local seguro e aguarda.",
+      "Liga os faróis altos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 14,
+    "pergunta": "Não é causa da diminuição da aderência do veículo com o solo:",
+    "opcoes": [
+      "Óleo na pista.",
+      "Excesso de velocidade.",
+      "Pista escorregadia.",
+      "Pneus em bom estado de conservação."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 15,
+    "pergunta": "Dirigindo um veículo, ao se aproximar de um cruzamento com sinal luminoso, você observa que a luz vermelha está acesa. Neste caso, você deve:",
+    "opcoes": [
+      "Diminuir a velocidade do veículo e passar.",
+      "Diminuir a velocidade e parar o veículo.",
+      "Observar o tráfego dos veículos e passar.",
+      "Frear bruscamente o veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 16,
+    "pergunta": "Direção defensiva é o ato de dirigir buscando, sempre:",
+    "opcoes": [
+      "Não se preocupar com a aproximação de outros veículos.",
+      "Utilizar o pisca-alerta em qualquer situação.",
+      "A eliminação dos fatores de riscos que podem levar à ocorrência de acidentes.",
+      "Utilizar o freio somente quando for parar o veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 17,
+    "pergunta": "Dirigindo um veículo, o condutor que encontrar crianças, pessoas idosas ou deficientes físicos atravessando a via deve:",
+    "opcoes": [
+      "Diminuir a velocidade, buzinar e seguir em frente.",
+      "Diminuir a velocidade, desviar e seguir em frente.",
+      "Parar o veículo e facilitar a travessia.",
+      "Ignorá-los."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 18,
+    "pergunta": "O contato dos pneus com o solo é chamado de:",
+    "opcoes": [
+      "Aderência.",
+      "Derrapagem.",
+      "Aquaplanagem.",
+      "Hidroplanagem."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 19,
+    "pergunta": "O acidente que envolve, apenas, um veículo e que não se conhecem suas possíveis causas chama-se:",
+    "opcoes": [
+      "Colisão misteriosa.",
+      "Colisão em uma passagem de nível (via férrea).",
+      "Colisão com animais.",
+      "Atropelamento."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 20,
+    "pergunta": "O condutor que dirige com segurança é aquele que:",
+    "opcoes": [
+      "Circula em alta velocidade em qualquer situação.",
+      "Ultrapassa outro veículo pela direita.",
+      "Circula com velocidade adequada à via.",
+      "Circula, sempre, pela faixa da direita."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 21,
+    "pergunta": "Uma das reações defensivas de um condutor, ao perceber a iminência de uma colisão frontal, é:",
+    "opcoes": [
+      "Encostar ao máximo para a direita da pista.",
+      "Ligar o pisca-alerta.",
+      "Deslocar-se para o acostamento da esquerda.",
+      "Aumentar a velocidade."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 22,
+    "pergunta": "Nos dias de período chuvoso não é conveniente:",
+    "opcoes": [
+      "Trafegar com o pisca-alerta acionado.",
+      "Aumentar a distância de segurança para com os veículos que seguem à frente.",
+      "Acender pelo menos as luzes de posição.",
+      "Sinalizar com maior abundância, suas intenções de mudança de direção."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 23,
+    "pergunta": "Se um condutor de veículo deparar, no trânsito, com outro condutor agindo de forma incorreta e que venha a prejudicá-lo, deve:",
+    "opcoes": [
+      "Fazer valer seu direito.",
+      "Ceder seu direito para evitar consequências maiores.",
+      "Ceder a vez e logo à frente, castigar o condutor infrator com uma “fechada”.",
+      "Deixar que o acidente aconteça para fazê-lo pagar pelo erro."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 24,
+    "pergunta": "A atitude correta para o condutor defensivo evitar acidente com o pedestre é:",
+    "opcoes": [
+      "Conceder o direito de passagem ao pedestre, sempre.",
+      "Buzinar, indicando perigo.",
+      "Acender os faróis, quando avistar pedestres na pista.",
+      "Respeitar o pedestre, apenas, se o mesmo estiver atravessando na faixa apropriada."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 25,
+    "pergunta": "São tipos de direção defensiva:",
+    "opcoes": [
+      "Disciplinar e Legal.",
+      "Preventiva e Corretiva.",
+      "Eficiente e Utilitária.",
+      "Segura e Insegura."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 26,
+    "pergunta": "Manter uma distância do veículo da frente é uma:",
+    "opcoes": [
+      "Condição segura para que o condutor tenha tempo de reagir e acionar os freios, bruscamente, diante de situação de emergência.",
+      "Conduta errada do condutor defensivo.",
+      "Condição segura para que o condutor tenha tempo de reagir e acionar os freios diante de situação de emergência.",
+      "Conduta que contraria as normas de direção defensiva."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 27,
+    "pergunta": "Direção Defensiva leva o condutor a:",
+    "opcoes": [
+      "Dirigir indiferentemente quanto aos demais usuários.",
+      "Dirigir com atenção dispersiva.",
+      "Dirigir com educação, segurança e eficiência.",
+      "Dirigir com atenção fixa."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 28,
+    "pergunta": "Não são técnicas adequadas para a realização de uma ultrapassagem segura:",
+    "opcoes": [
+      "Realizar sinalização clara e redobrar a atenção.",
+      "Manter distância de segurança, antes de iniciar a manobra.",
+      "Planejar o espaço necessário para a manobra completa.",
+      "A ultrapassagem pelo acostamento."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 29,
+    "pergunta": "Quando você estiver conduzindo um veículo lembre-se de que, também, é passageiro e pedestre. Assim, deve:",
+    "opcoes": [
+      "Ultrapassar veículos parados em fila, que estejam aguardando a abertura do sinal luminoso.",
+      "Ultrapassar outro veículo em pontes e viadutos.",
+      "Dar prioridade de passagem aos pedestres, apenas, quando atravessar a calçada para entrar em algum estacionamento.",
+      "Dar preferência de passagem aos pedestres que estiverem nas faixas de segurança, onde não existir sinal luminoso."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 30,
+    "pergunta": "Não é comportamento do condutor defensivo:",
+    "opcoes": [
+      "Respeitar as leis e normas de trânsito.",
+      "Dirigir em velocidade compatível com a segurança.",
+      "Ser cortez e educado.",
+      "Avisar aos outros condutores sobre seus erros."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  }
+]

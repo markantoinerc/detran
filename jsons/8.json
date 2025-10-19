@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Não é correto adotar a seguinte conduta para imobilização em caso de fratura:",
+    "opcoes": [
+      "Antes de imobilizar, puxar o membro colocando-o na posição natural.",
+      "Aplicar panos limpos sobre as fraturas expostas.",
+      "Manter a vítima deitada.",
+      "O comprimento de uma tala deverá ser suficiente para imobilizar, também, a articulação."
+    ],
+    "resposta_correta": "A",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 2,
+    "pergunta": "Em caso de acidente:",
+    "opcoes": [
+      "É obrigação de todos retirar, imediatamente, o veículo do local.",
+      "Não existe obrigação legal em socorrer.",
+      "É obrigação de todos prestar ou providenciar auxílio, desde que não corra risco pessoal.",
+      "É obrigação de socorrer, apenas, o causador do acidente."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 3,
+    "pergunta": "Embora cada acidente tenha suas circunstâncias peculiares, algumas medidas devem ser tomadas pelo socorrista, dentre elas:",
+    "opcoes": [
+      "Aliviar a dor, oferecendo analgésico à vítima.",
+      "Agir conforme as suas limitações.",
+      "Transportar a vítima em qualquer situação.",
+      "Oferecer líquido à vítima."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 4,
+    "pergunta": "Em caso de acidente com vítima, qualquer cidadão deve:",
+    "opcoes": [
+      "Retirar a vítima de dentro do veículo imediatamente.",
+      "Transportar a vítima imediatamente.",
+      "Sinalizar o local e solicitar atendimento especializado às vítimas.",
+      "Afastar-se do local imediatamente."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 5,
+    "pergunta": "O melhor local no corpo para se verificar a pulsação é:",
+    "opcoes": [
+      "No pescoço (carotídea).",
+      "No pé.",
+      "No punho.",
+      "Em alguma veia saliente."
+    ],
+    "resposta_correta": "A",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 6,
+    "pergunta": "Não sendo possível, a chegada imediata do resgate, o cuidado indicado na presença de sangramento abundante é:",
+    "opcoes": [
+      "Dar bastante líquido para a pessoa ir tomando.",
+      "Fazer compressão no local do sangramento.",
+      "Jogar bastante água oxigenada para coagular e limpar o ferimento.",
+      "Deixar o sangramento parar sozinho."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 7,
+    "pergunta": "O procedimento correto com o acidentado que sofreu queimaduras provocada por chamas é:",
+    "opcoes": [
+      "Esfriar a área com água corrente.",
+      "Passar pasta de dente na ferida.",
+      "Cobrir a ferida com um pano seco.",
+      "Dar leite para a pessoa tomar."
+    ],
+    "resposta_correta": "A",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 8,
+    "pergunta": "Não constitui requisito obrigatório a um socorrista:",
+    "opcoes": [
+      "Ser solidário.",
+      "Ser firme e dedicado.",
+      "Ser calmo.",
+      "Ser da área de saúde."
+    ],
+    "resposta_correta": "D",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 9,
+    "pergunta": "Agir com prudência, respeitar os limites de seu conhecimento, seguir os protocolos estabelecidos, prevenir e evitar danos maiores são entre outras ações do:",
+    "opcoes": [
+      "Ciclista.",
+      "Socorrista.",
+      "Pedestre.",
+      "Passageiro."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 10,
+    "pergunta": "SAMU significa:",
+    "opcoes": [
+      "Seção de Atendimento Médico Urbano.",
+      "Serviço de Auxílio Médico de Urgência.",
+      "Seção de Auxílio Móvel ao Usuário.",
+      "Serviço de Atendimento Móvel de Urgência."
+    ],
+    "resposta_correta": "D",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 11,
+    "pergunta": "O sinal vital que não varia com a idade é:",
+    "opcoes": [
+      "Temperatura.",
+      "Pulso.",
+      "Respiração.",
+      "Pressão arterial."
+    ],
+    "resposta_correta": "D",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 12,
+    "pergunta": "Não constitui procedimento correto com uma vítima em estado de choque:",
+    "opcoes": [
+      "Manter a vítima deitada com as pernas elevadas, se não houver fratura dos membros.",
+      "Afrouxar suas roupas.",
+      "Monitorar a respiração.",
+      "Dar bastante líquido à vítima inconsciente que vomitou."
+    ],
+    "resposta_correta": "D",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 13,
+    "pergunta": "Em um acidente de trânsito com vítima, o que se deve fazer:",
+    "opcoes": [
+      "Tentar conversar com a vítima.",
+      "Movimentar a vítima.",
+      "Fazer torniquete.",
+      "Retirar o capacete do motociclista."
+    ],
+    "resposta_correta": "A",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 14,
+    "pergunta": "Nas hemorragias externas devemos:",
+    "opcoes": [
+      "Fazer torniquete para conter o sangramento.",
+      "Dar líquido para a vítima ingerir.",
+      "Evitar contato direto com o sangue da vítima.",
+      "Movimentar a vítima."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 15,
+    "pergunta": "A incapacidade de reagir a estímulos nas pernas e nos braços, após um acidente é indício de:",
+    "opcoes": [
+      "Traumatismo Femural.",
+      "Lesão de coluna.",
+      "Traumatismo Radial.",
+      "Lesão da cabeça."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 16,
+    "pergunta": "Não é procedimento em caso de amputação de membro:",
+    "opcoes": [
+      "Fazer compressão no local, para conter o sangramento.",
+      "Colocar, a parte amputada, em um saco plástico.",
+      "Colocar, a parte amputada, diretamente no gelo.",
+      "Levar, a parte amputada, com a vítima para o hospital."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 17,
+    "pergunta": "Não constitui medida básica para prestar assistência à vítima de acidente, após ter sinalizado o local:",
+    "opcoes": [
+      "Assumir a situação.",
+      "Proteger o acidentado.",
+      "Verificar, primeiramente, os sinais vitais.",
+      "Determinar que o acidentado busque socorro."
+    ],
+    "resposta_correta": "D",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 18,
+    "pergunta": "Vítima de acidente pede água para beber. Nessa situação, você deve:",
+    "opcoes": [
+      "Mantê-la em jejum.",
+      "Dar bastante líquido para hidratar a vítima.",
+      "Deixá-la beber, apenas o que quiser.",
+      "Dar leite ou líquido adocicados, de preferência."
+    ],
+    "resposta_correta": "A",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 19,
+    "pergunta": "O procedimento correto na impossibilidade da presença do Resgate, quando a vítima apresenta objeto empalado no ferimento de acidente de trânsito, é:",
+    "opcoes": [
+      "Proteger o ferimento com bandagens e retire o objeto.",
+      "Proteger o ferimento com bandagens e não retire o objeto.",
+      "Remover o objeto empalado e controle o sangramento.",
+      "Remover o objeto empalado e lave o ferimento com água e sabão"
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 20,
+    "pergunta": "Vítima que usava cinto de segurança está inconsciente dentro do veículo. Nessa situação você deve:",
+    "opcoes": [
+      "Sinalizar o local e chamar o resgate.",
+      "Retirar o cinto de segurança.",
+      "Retirar a vítima do veículo e deitá-la.",
+      "Se for banco reclinável, incliná-lo o máximo possível."
+    ],
+    "resposta_correta": "A",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 21,
+    "pergunta": "Não constitui procedimento correto diante de acidente de trânsito, com vítima:",
+    "opcoes": [
+      "Arrastar a vítima do local do acidente.",
+      "Sinalizar o local, para evitar novos acidentes.",
+      "Acionar o pisca-alerta dos veículos próximo ao local.",
+      "Definir a melhor colocação do triângulo."
+    ],
+    "resposta_correta": "A",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 22,
+    "pergunta": "Ao transportar uma vítima é incorreto:",
+    "opcoes": [
+      "Manter a vítima em jejum.",
+      "Transportar a vítima imobilizada.",
+      "Manter, a qualquer custo, a vítima acordada.",
+      "Manter as vias aéreas livres, desobstruídas."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 23,
+    "pergunta": "Para evitar agravamento do acidente de trânsito como novas colisões, atropelamento ou incêndios, deve-se de imediato tomar a seguinte providência:",
+    "opcoes": [
+      "Sinalizar o local.",
+      "Retirar a vítima do veículo.",
+      "Retirar o veículo do local.",
+      "Verificar a situação das vítimas."
+    ],
+    "resposta_correta": "A",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 24,
+    "pergunta": "São serviços gratuitos de atendimento às emergências que podem ser acionados em caso de acidente:",
+    "opcoes": [
+      "Corpo de Bombeiros, reboque, Defesa Civil.",
+      "Corpo de Bombeiros, DER, Polícia Militar.",
+      "Corpo de Bombeiros, plano de saúde, hospital mais próximo.",
+      "Corpo de Bombeiros, SAMU, Polícia Militar."
+    ],
+    "resposta_correta": "D",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 25,
+    "pergunta": "As ações, a serem realizadas pelo socorrista no local do acidente:",
+    "opcoes": [
+      "Retirar o veículo do local, sinalizar o local.",
+      "Retirar a vítima do veículo, sinalizar o local.",
+      "Pedir socorro, controlar a situação, verificar a situação das vítimas.",
+      "Medir a pressão arterial e dar líquido à vítima."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 26,
+    "pergunta": "Em acidentes de trânsito, afastar os curiosos, se for seguro, desligar o motor do veículo envolvido e orientar para que não fumem no local. É uma ação do socorrista para a possibilidade de ocorrência de:",
+    "opcoes": [
+      "Atropelamento.",
+      "Incêndio.",
+      "Óleo e/ou obstáculo na pista.",
+      "Cabos de eletricidade caindo no local."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 27,
+    "pergunta": "Em acidente automobilístico envolvendo veículo com passageiros e fio elétrico caído sobre o veículo, os passageiros deverão, até ser desligada a energia:",
+    "opcoes": [
+      "Serem retirados imediatamente.",
+      "Sair um a um do veículo.",
+      "Afastar o veículo do fio elétrico.",
+      "Permanecer no veículo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 28,
+    "pergunta": "Ao acionar o serviço de atendimento, o socorrista não deverá passar as seguintes informações:",
+    "opcoes": [
+      "Gravidade aparente do acidente.",
+      "Nome da rua ou rodovia e número próximo.",
+      "Endereço e número do telefone da vítima.",
+      "Tipo de acidente, se envolve carro, motocicleta, colisão, atropelamento etc."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 29,
+    "pergunta": "Uma vítima de acidente de trânsito está gritando, com muita dor. Nessa situação, você deve:",
+    "opcoes": [
+      "Dar remédio para dor.",
+      "Fazer compressas geladas no local da dor.",
+      "Fazer compressas quentes no local da dor.",
+      "Esperar a chegada do resgate."
+    ],
+    "resposta_correta": "D",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 30,
+    "pergunta": "Conter o sangramento com gaze estéril, sem aplicar pressão direta e chamar o resgate é procedimento adequado em caso de:",
+    "opcoes": [
+      "Parada respiratória.",
+      "Acidente em que a vítima apresenta fratura aberta com sangramento.",
+      "Parada cardíaca.",
+      "Crise convulsiva."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  }
+]

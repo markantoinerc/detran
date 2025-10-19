@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Assinale a infração gravíssima:",
+    "opcoes": [
+      "Deixar de dar preferência de passagem a pedestre e a veículo não motorizado que não haja concluído a travessia mesmo que ocorra sinal verde para o veículo.",
+      "Deixar de dar preferência de passagem nas interseções com sinalização de regulamentação de Dê a preferência.",
+      "Deixar de dar preferência de passagem em interseção não sinalizada a veículo que estiver circulando por rodovia ou rotatória.",
+      "Deixar de dar preferência de passagem em interseção não sinalizada, a veículo que vier da direita."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 2,
+    "pergunta": "Em uma via rural não pavimentada, desprovida de sinalização regulamentadora de velocidade, foi registrada por instrumento eletrônico (radar), um condutor dirigindo seu veículo a velocidade de 100 Km/h. Esse condutor cometeu infração de natureza:",
+    "opcoes": [
+      "Grave.",
+      "Média.",
+      "Leve.",
+      "Gravíssima."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 3,
+    "pergunta": "Assinale a alternativa correta. Constitui infração média:",
+    "opcoes": [
+      "Transitar com o veículo em velocidade inferior à metade da velocidade máxima estabelecida para a via, retardando ou obstruindo o trânsito, a menos que as condições de tráfego e meteorológicas não o permitam, salvo se estiver na faixa da direita.",
+      "Deixar de reduzir a velocidade do veículo de forma compatível com a segurança do trânsito à aproximação de animais na pista.",
+      "Deixar de reduzir a velocidade do veículo sob chuva, neblina, cerração ou ventos fortes.",
+      "Deixar de reduzir a velocidade do veículo quando houver má visibilidade."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 4,
+    "pergunta": "Transitar com o farol desregulado ou com o facho de luz alta, de forma a perturbar a visão de outro condutor, poderá acarretar:",
+    "opcoes": [
+      "Multa.",
+      "Multa e retenção do veículo.",
+      "Multa e apreensão do veículo.",
+      "Multa e remoção do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 5,
+    "pergunta": "Constitui infração grave:",
+    "opcoes": [
+      "Transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito.",
+      "Forçar passagem entre veículos que, transitando em sentidos opostos, estejam na iminência de passar um pelo outro ao realizar operação de ultrapassagem.",
+      "Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade e seus agentes.",
+      "Deixar de conservar o veículo, quando estiver em movimento, na faixa a ele destinada pela sinalização de regulamentação, exceto em situações de emergência."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 6,
+    "pergunta": "É infração gravíssima para o condutor de motocicleta, motoneta ou ciclomotor:",
+    "opcoes": [
+      "Conduzir sem segurar o guidom com ambas as mãos, salvo eventualmente para indicação de manobras.",
+      "Transportar criança menor de sete anos ou que não tenha, nas circunstâncias, condições de cuidar de sua própria segurança.",
+      "Conduzir transportando carga incompatível com suas especificações.",
+      "Conduzir rebocando outro veículo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 7,
+    "pergunta": "Conduzir veículo com qualquer uma das placas de identificação sem condições de legibilidade ou visibilidade, estará sujeito às seguintes penalidades:",
+    "opcoes": [
+      "Multa e apreensão do veículo.",
+      "Apreensão e remoção do veículo.",
+      "Multa e remoção do veículo.",
+      "Apreensão do veículo e da Carteira Nacional de Habilitação."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 8,
+    "pergunta": "Conduzir o veículo sem acionar o limpador de parabrisa durante a chuva é infração punida com:",
+    "opcoes": [
+      "Advertência pelo agente de trânsito.",
+      "Apreensão do veículo e multa.",
+      "Multa e retenção do veículo.",
+      "Remoção do veículo e multa."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 9,
+    "pergunta": "É motivo de suspensão do direito de dirigir, ao condutor que cometer a infração de:",
+    "opcoes": [
+      "Dirigir veículo com a Carteira Nacional de Habilitação vencida há mais de trinta dias.",
+      "Dirigir ameaçando os pedestres que estejam atravessando a via pública, ou os demais veículos.",
+      "Entregar ou confiar a direção do veículo a pessoa que, mesmo habilitada, por seu estado físico ou psíquico, não estiver em condições de dirigí-lo com segurança.",
+      "Deixar o condutor de prestar socorro à vítima de acidente de trânsito quando solicitado pela autoridade e seus agentes."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 10,
+    "pergunta": "Transitar com o veículo desligado ou desengrenado, em declive, é uma infração:",
+    "opcoes": [
+      "Média.",
+      "Gravíssima.",
+      "Grave.",
+      "Leve."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 11,
+    "pergunta": "Conduzir veículo, sem atenção e os cuidados indispensáveis à segurança, caracteriza:",
+    "opcoes": [
+      "Infração média.",
+      "Infração gravíssima.",
+      "Infração grave.",
+      "Infração leve."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 12,
+    "pergunta": "O proprietário de veículo que não comunicar ao órgão executivo de trânsito do estado, no prazo determinado, a transferência de propriedade de seu veículo, cabe-lhe:",
+    "opcoes": [
+      "A não responsabilidade pelas penalidades impostas e suas reincidências até a data da comunicação.",
+      "Responsabilidade, juntamente com o novo proprietário, pelas penalidades impostas e suas reincidências até a data da comunicação.",
+      "Responsabilidade exclusiva pela penalidade de multa.",
+      "A responsabilidade é, única e exclusiva, do novo proprietário do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 13,
+    "pergunta": "O condutor que utilizar veículo de carga para transportar pessoas na carroceria, sem permissão da autoridade competente sobre a via, estará cometendo infração de natureza:",
+    "opcoes": [
+      "Gravíssima.",
+      "Grave.",
+      "Média.",
+      "Leve."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 14,
+    "pergunta": "Assinale a alternativa que completa a questão: Conduzir motocicleta, motoneta ou ciclomotor sem usar capacete de segurança com viseira ou óculos de proteção é infração ____, gerando como penalidade a (o)",
+    "opcoes": [
+      "Gravíssima; recolhimento do documento de habilitação.",
+      "Grave; remoção do veículo.",
+      "Grave; apreensão do veículo.",
+      "Gravíssima; suspensão do direito de dirigir."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 15,
+    "pergunta": "Constitui penalidade de suspensão do direito de dirigir conduzir motocicleta ou motoneta transportando criança:",
+    "opcoes": [
+      "Maior de 7 anos.",
+      "Menor de 7 anos",
+      "Maior de 9 anos.",
+      "Maior de 10 anos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 16,
+    "pergunta": "Os veículos apreendidos e não reclamados pelo seu proprietário, poderão ser levados à hasta pública em:",
+    "opcoes": [
+      "90 dias.",
+      "30 dias.",
+      "60 dias.",
+      "15 dias."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 17,
+    "pergunta": "Quando o condutor estiver dirigindo o veículo transportando pessoas, animais ou volume a sua esquerda ou entre os braços e pernas, será aplicada a penalidade:",
+    "opcoes": [
+      "Multa e apreensão do veículo.",
+      "Multa e suspensão do direito de dirigir.",
+      "Multa.",
+      "Multa e retenção do veículo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 18,
+    "pergunta": "O pedestre que desobedece às regras e a sinalização de trânsito específicas determinadas no art. 254 do CTB está praticando infração de natureza leve, sujeito a penalidade de __________, no valor de:",
+    "opcoes": [
+      "Advertência por escrito; 40% por cento do valor da infração de natureza leve.",
+      "Multa; 50% cinquenta por cento do valor da infração de natureza leve.",
+      "Frequência obrigatória em curso de reciclagem; 20%vinte por cento do valor da infração de natureza leve.",
+      "Multa; 50% cinquenta por cento do valor da infração de natureza média."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 19,
+    "pergunta": "Conduzir bicicleta em passeios onde não seja permitida a circulação desta, constitui infração de natureza:",
+    "opcoes": [
+      "Média.",
+      "Grave.",
+      "Leve.",
+      "Gravíssima."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 20,
+    "pergunta": "As penalidades são impostas ao:",
+    "opcoes": [
+      "Somente, ao condutor.",
+      "Somente, ao proprietário do veículo.",
+      "Condutor, proprietário do veículo, embarcador e transportador.",
+      "Veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 21,
+    "pergunta": "Excetuando-se as infrações resultantes do excesso de peso, será sempre responsável pelo pagamento da penalidade de multa o:",
+    "opcoes": [
+      "Condutor do veículo.",
+      "Passageiro do veículo.",
+      "Agente da autoridade de trânsito.",
+      "Proprietário do veículo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 22,
+    "pergunta": "O responsável pela infração relativa ao transporte de carga com excesso de peso nos eixos ou quando a carga proveniente de mais de um embarcador ultrapassar o peso bruto total é o:",
+    "opcoes": [
+      "Embarcador",
+      "Transportador e embarcador",
+      "Caminhonete",
+      "Transportador"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 23,
+    "pergunta": "Não sendo possível identificar o infrator, a responsabilidade pela infração será:",
+    "opcoes": [
+      "Do arrendante.",
+      "Do proprietário do veículo.",
+      "Do condutor.",
+      "Não haverá um responsável, pois não foi possível identificar o infrator."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 24,
+    "pergunta": "O condutor infrator penalizado em (05) cinco pontos no seu prontuário, cometeu uma infração:",
+    "opcoes": [
+      "Leve.",
+      "Gravíssima.",
+      "Média.",
+      "Grave"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 25,
+    "pergunta": "A soma das infrações gravíssima, grave, média e leve, totalizam:",
+    "opcoes": [
+      "19 pontos.",
+      "20 pontos.",
+      "18 pontos.",
+      "17 pontos."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 26,
+    "pergunta": "Assinale a alternativa que completa a questão. A suspensão do direito de dirigir será aplicada quando o infrator atingir a contagem de _______.",
+    "opcoes": [
+      "20 pontos.",
+      "Até 19 pontos",
+      "15 pontos",
+      "19 pontos"
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 27,
+    "pergunta": "A cassação do documento de habilitação ocorrerá quando o condutor cometer a seguinte infração:",
+    "opcoes": [
+      "Dirigir com velocidade superior a máxima em mais de cinquenta por cento.",
+      "Dirigir ameaçando os pedestres que estejam atravessando a via pública ou os demais veículos.",
+      "Conduzir veículo, estando suspenso o direito de dirigir.",
+      "Deixar de prestar socorro à vítima de acidente de trânsito."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 28,
+    "pergunta": "Roberto foi surpreendido em 01.08.07 promovendo na via pública competição esportiva, sem permissão da autoridade de trânsito com circunscrição sobre a via. Se ele cometer a mesma infração em 01.07.08 lhe será aplicado as seguintes penalidades:",
+    "opcoes": [
+      "Multa, suspensão do direito de dirigir e apreensão do veículo.",
+      "Multa, suspensão do direito de dirigir e retenção do veículo.",
+      "Multa, cassação do documento de habilitação e apreensão do veículo.",
+      "Multa, cassação do documento de habilitação e retenção do veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 29,
+    "pergunta": "A penalidade de advertência por escrito poderá ser aplicada pela autoridade, quando entender esta providência como mais educativa, a infração de:",
+    "opcoes": [
+      "Natureza grave.",
+      "Natureza leve ou média.",
+      "Natureza gravíssima.",
+      "Em nenhuma hipótese."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 30,
+    "pergunta": "O condutor infrator será submetido a curso de reciclagem, quando:",
+    "opcoes": [
+      "Cassada a sua Carteira Nacional de Habilitação.",
+      "Suspenso do direito de dirigir.",
+      "Cometer duas infrações de natureza média.",
+      "Cometer qualquer infração de natureza grave."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  }
+]

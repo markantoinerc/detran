@@ -1,0 +1,362 @@
+[
+  {
+    "id": 61,
+    "pergunta": "Qual a classificação dos veículos 'caminhonete' e 'motocicleta' quanto à espécie, segundo o Código de Trânsito Brasileiro?",
+    "opcoes": [
+      "Ambos são classificados como de passageiros.",
+      "Caminhonete é de carga e motocicleta é de passageiros.",
+      "Caminhonete é de carga e motocicleta é mista.",
+      "Ambos são classificados como misto."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 62,
+    "pergunta": "A expedição de novo Certificado de Registro de Veículo (CRV) é obrigatória quando:",
+    "opcoes": [
+      "O proprietário mudar de endereço no mesmo Município.",
+      "Houver transferência de propriedade.",
+      "O veículo estiver com o licenciamento anual atrasado.",
+      "O proprietário quitar seus débitos de IPVA."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 63,
+    "pergunta": "Onde não houver sinalização regulamentadora, qual a velocidade máxima permitida para o trânsito nas vias coletoras?",
+    "opcoes": [
+      "80 km/h.",
+      "60 km/h.",
+      "40 km/h.",
+      "30 km/h."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 64,
+    "pergunta": "Em relação aos Departamentos de Estradas e Rodagens (DER), estes são órgãos do Sistema Nacional de Trânsito classificados como:",
+    "opcoes": [
+      "Normativos e consultivos.",
+      "Executivos de trânsito rodoviário.",
+      "Executivos de trânsito dos Estados.",
+      "Colegiados e recursais."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 65,
+    "pergunta": "Dirigir veículo sem usar lentes corretoras de visão impostas por ocasião da concessão ou renovação da habilitação constitui infração de natureza:",
+    "opcoes": [
+      "Gravíssima, com multa e suspensão do direito de dirigir.",
+      "Grave, com multa e retenção do veículo.",
+      "Média, com multa e recolhimento da CNH.",
+      "Gravíssima, com multa (três vezes) e retenção do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 66,
+    "pergunta": "A placa de regulamentação R-7, com a figura de dois carros lado a lado com um corte na diagonal, significa:",
+    "opcoes": [
+      "Proibido mudar de faixa ou pista de trânsito.",
+      "Proibido ultrapassar.",
+      "Proibido trânsito de veículos automotores.",
+      "Mantenha-se à direita."
+    ],
+    "resposta_correta": "B",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 67,
+    "pergunta": "A placa de advertência A-1a, que indica uma seta fazendo uma curva acentuada para a esquerda, adverte sobre:",
+    "opcoes": [
+      "Curva acentuada à esquerda.",
+      "Curva à esquerda.",
+      "Pista sinuosa à esquerda.",
+      "Bifurcação em Y."
+    ],
+    "resposta_correta": "A",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 68,
+    "pergunta": "Em caso de neblina ou cerração, o motorista defensivo deve adotar qual conduta em relação ao uso de luzes?",
+    "opcoes": [
+      "Usar farol alto para melhorar a visibilidade.",
+      "Manter apenas as luzes de posição acesas.",
+      "Manter acesos os faróis do veículo utilizando luz baixa.",
+      "Utilizar o pisca-alerta e parar no acostamento."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 69,
+    "pergunta": "A direção defensiva corretiva é aquela aplicada quando o condutor:",
+    "opcoes": [
+      "Antecipa-se às situações de risco e evita o acidente.",
+      "Age de forma cautelosa para garantir a fluidez do trânsito.",
+      "Precisa remediar uma situação de risco que não foi prevista ou antecipada.",
+      "Mantém o veículo na velocidade mínima da via."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 70,
+    "pergunta": "Ao se aproximar de um cruzamento sem sinalização, o condutor deve aplicar a regra de preferência, que é:",
+    "opcoes": [
+      "A preferência é sempre do veículo de maior porte.",
+      "A preferência é do veículo que vier pela direita do condutor.",
+      "A preferência é do veículo que for entrar na via principal.",
+      "A preferência é sempre do veículo que estiver em linha reta."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 71,
+    "pergunta": "Qual das alternativas não é um componente do sistema de freios de um veículo?",
+    "opcoes": [
+      "Pastilhas de freio.",
+      "Lonas de freio.",
+      "Cilindro Mestre.",
+      "Vela de ignição."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 72,
+    "pergunta": "A principal função do sistema de arrefecimento (ou refrigeração) do motor é:",
+    "opcoes": [
+      "Aumentar a temperatura do motor para otimizar a combustão.",
+      "Manter a temperatura ideal de trabalho do motor, evitando o superaquecimento.",
+      "Lubrificar as peças móveis do motor para reduzir o atrito.",
+      "Filtrar o líquido do motor para evitar a formação de impurezas."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 73,
+    "pergunta": "Qual dos seguintes itens é um equipamento obrigatório para motocicletas, motonetas e triciclos?",
+    "opcoes": [
+      "Extintor de incêndio.",
+      "Indicadores luminosos de mudança de direção (setas).",
+      "Pára-choques dianteiro e traseiro.",
+      "Cinto de segurança para o condutor."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 74,
+    "pergunta": "Em caso de atropelamento, com a vítima inconsciente na pista de rolamento, qual deve ser a primeira atitude do socorrista (cidadão)?",
+    "opcoes": [
+      "Remover imediatamente a vítima para a calçada.",
+      "Avaliar o cenário e sinalizar o local para evitar novos acidentes.",
+      "Oferecer líquidos (água ou café) para que a vítima acorde.",
+      "Fazer massagem cardíaca sem verificar os sinais vitais."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 75,
+    "pergunta": "A penalidade por dirigir veículo segurando ou manuseando telefone celular é:",
+    "opcoes": [
+      "Infração gravíssima e suspensão do direito de dirigir.",
+      "Infração grave e multa.",
+      "Infração gravíssima e multa.",
+      "Infração média e multa."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 76,
+    "pergunta": "Qual a classificação da via onde a velocidade máxima permitida, na ausência de sinalização, é $30~km/h$?",
+    "opcoes": [
+      "Via de trânsito rápido.",
+      "Via arterial.",
+      "Via coletora.",
+      "Via local."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 77,
+    "pergunta": "O Certificado de Licenciamento Anual (CRLV) é um documento de porte obrigatório que comprova:",
+    "opcoes": [
+      "O registro do veículo.",
+      "A propriedade do veículo.",
+      "O licenciamento do veículo.",
+      "O pagamento do IPVA e do DPVAT."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 78,
+    "pergunta": "O que o condutor de um veículo de maior porte deve ter em mente em relação aos demais usuários da via, segundo o CTB?",
+    "opcoes": [
+      "Ter a preferência de passagem sobre os veículos menores.",
+      "Ser sempre responsável pela segurança dos veículos menores, não motorizados e pedestres.",
+      "Dividir a responsabilidade pela segurança com os demais, exceto pedestres.",
+      "Ter a preferência de passagem, exceto sobre veículos de emergência."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 79,
+    "pergunta": "A manobra de ultrapassagem pela direita é permitida quando:",
+    "opcoes": [
+      "O veículo da frente estiver na faixa da esquerda e sinalizando que vai entrar à direita.",
+      "O veículo da frente estiver sinalizando o propósito de entrar à esquerda.",
+      "O motorista da frente autorizar a ultrapassagem.",
+      "A via for de sentido único, com mais de uma faixa e a da esquerda estiver congestionada."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 80,
+    "pergunta": "Em interseções e suas proximidades, o condutor não poderá efetuar:",
+    "opcoes": [
+      "Redução de marcha.",
+      "Manobra de conversão à direita.",
+      "Manobra de ultrapassagem.",
+      "Manobra de parada."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 81,
+    "pergunta": "Em direção defensiva, a colisão frontal é considerada uma das mais graves porque:",
+    "opcoes": [
+      "O impacto sofrido é proporcional à soma das velocidades dos veículos envolvidos.",
+      "Ocorre, na maioria das vezes, por falha mecânica inesperada.",
+      "Envolve apenas um veículo (acidente misterioso).",
+      "É causada, principalmente, por distração em cruzamentos."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual dos elementos abaixo é um fator que, se não for mantido corretamente, reduz a aderência dos pneus com o solo, aumentando o risco de aquaplanagem?",
+    "opcoes": [
+      "A calibragem incorreta dos pneus.",
+      "O desalinhamento da suspensão.",
+      "A falha no sistema elétrico.",
+      "O excesso de gases no motor."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 83,
+    "pergunta": "Quais são os fatores que compõem os elementos básicos da condução defensiva?",
+    "opcoes": [
+      "Velocidade, coragem, habilidade, previsão e atenção.",
+      "Conhecimento, atenção, previsão, decisão e habilidade.",
+      "Negligência, imprudência, imperícia, distância e tempo.",
+      "Controle, manobra, freio, aceleração e visão."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 84,
+    "pergunta": "Ao prestar socorro a uma vítima com sangramento abundante (hemorragia externa), o procedimento mais adequado e seguro é:",
+    "opcoes": [
+      "Fazer um torniquete acima do ferimento.",
+      "Dar líquidos para a vítima ingerir, a fim de evitar o estado de choque.",
+      "Fazer compressão no local com gaze estéril ou pano limpo, evitando contato direto com o sangue.",
+      "Remover imediatamente a vítima para um hospital próximo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 85,
+    "pergunta": "Em uma situação de acidente onde há derramamento de combustível na pista, a providência imediata a ser tomada para reduzir o risco de incêndio e explosão é:",
+    "opcoes": [
+      "Acionar o extintor diretamente no líquido derramado.",
+      "Cobrir o combustível com terra, areia ou cal e sinalizar o local.",
+      "Lavar a pista com água para diluir o combustível.",
+      "Afastar os curiosos, mas não mexer no motor dos veículos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 86,
+    "pergunta": "Qual órgão ambiental, criado pelo CONAMA, tem como principal objetivo o controle da poluição do ar por veículos automotores?",
+    "opcoes": [
+      "O IBAMA.",
+      "O PROCONVE (Programa de Controle da Poluição do Ar por Veículos Automotores).",
+      "O DETRAN.",
+      "A JARI."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente e Cidadania"
+  },
+  {
+    "id": 87,
+    "pergunta": "Uma das maiores preocupações do CONAMA em relação aos pneus é que, por serem resíduos de difícil decomposição, devem ser submetidos ao Programa Nacional de Coleta e Destinação de Pneus Inservíveis, que obriga:",
+    "opcoes": [
+      "O motorista a guardar os pneus em casa.",
+      "O DETRAN a recolher e reutilizar os pneus.",
+      "As empresas fabricantes e importadoras a coletar e dar destinação final adequada.",
+      "O proprietário a pagar uma taxa ambiental para o descarte."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente e Cidadania"
+  },
+  {
+    "id": 88,
+    "pergunta": "A má conservação e a regulagem inadequada dos veículos, resultando em excesso de fumaça, gases e ruídos, contribuem, principalmente, para a:",
+    "opcoes": [
+      "Poluição do solo e da água.",
+      "Poluição visual e erosão.",
+      "Poluição do ar e poluição sonora.",
+      "Diminuição do desgaste do motor."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente e Cidadania"
+  },
+  {
+    "id": 89,
+    "pergunta": "A peça do motor que tampa a parte inferior e serve como reservatório e coletor do óleo lubrificante é denominada:",
+    "opcoes": [
+      "Cabeçote.",
+      "Bloco do motor.",
+      "Pistão.",
+      "Cárter."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 90,
+    "pergunta": "Qual é o prazo em que o processo do candidato à habilitação ficará ativo no órgão ou entidade executivo de trânsito?",
+    "opcoes": [
+      "6 meses.",
+      "12 meses.",
+      "18 meses.",
+      "24 meses."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  }
+]

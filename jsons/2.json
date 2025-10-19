@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Para que os veículos destinados à condução coletiva de escolares possam circular nas vias, exige-se:",
+    "opcoes": [
+      "Cintos de segurança para o condutor e seu auxiliar.",
+      "Registro de veículo especial.",
+      "Lanternas de luz verde nas extremidades laterais direita e esquerda.",
+      "Inspeção semestral para verificação dos equipamentos obrigatórios e de segurança."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 2,
+    "pergunta": "O candidato para se habilitar para conduzir veículo automotor e elétrico deverá preencher os seguintes requisitos:",
+    "opcoes": [
+      "Saber ler e escrever.",
+      "Saber ler e escrever e possuir documento de identidade.",
+      "Saber ler e escrever, ser penalmente imputável e possuir carteira de identidade ou equivalente.",
+      "Ser penalmente imputável."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 3,
+    "pergunta": "A cópia fotostática ou a fotocópia da Carteira Nacional de Habilitação:",
+    "opcoes": [
+      "Não é válida para substituir documento original.",
+      "É válida quando autenticada em cartório.",
+      "É válida quando não plastificada.",
+      "É válida quando apresentada junto com o documento de identidade do portador."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 4,
+    "pergunta": "A Licença de Aprendizagem (LADV) suspensa poderá ser obtida novamente após decorridos:",
+    "opcoes": [
+      "Seis meses.",
+      "Três meses.",
+      "Doze meses.",
+      "Nove meses."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 5,
+    "pergunta": "O candidato à obtenção da ACC ou da CNH deverá preencher os seguintes requisitos:",
+    "opcoes": [
+      "Ser maior de 21 anos, possuir CPF, saber ler e escrever.",
+      "Somente saber ler e escrever, e possuir documento de identidade.",
+      "Ser penalmente imputável, saber ler e escrever, possuir documento de identidade e CPF.",
+      "Ser maior de 18 anos, saber ler e escrever, possuir identidade e CPF."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 6,
+    "pergunta": "A habilitação subordinada às condições estabelecidas em convenções e acordos internacionais e às normas do CONTRAN, é aquela obtida:",
+    "opcoes": [
+      "No Brasil.",
+      "No seu Estado.",
+      "No seu Município.",
+      "Em outro país."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 7,
+    "pergunta": "As categorias existentes à habilitação são:",
+    "opcoes": [
+      "A – B – C – D",
+      "B – C – D – E",
+      "B – C – D",
+      "A – B – C – D – E"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 8,
+    "pergunta": "O condutor para conduzir veículo motorizado de duas ou três rodas, com ou sem carro lateral, deverá habilitar-se na categoria:",
+    "opcoes": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 9,
+    "pergunta": "Assinale a alternativa que completa a questão: A categoria habilita o condutor a dirigir veículo motorizado, não abrangido pela categoria A, cujo peso bruto total não exceda a 3.500 quilogramas e cuja lotação não exceda a 8 lugares, excluído o do motorista.",
+    "opcoes": [
+      "C",
+      "B",
+      "E",
+      "D"
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 10,
+    "pergunta": "Assinale a alternativa que completa a questão: A categoria habilita o condutor a dirigir veículo motorizado utilizado em transporte de carga, cujo peso bruto total exceda a 3.500 quilogramas.",
+    "opcoes": [
+      "D",
+      "E",
+      "C",
+      "B"
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 11,
+    "pergunta": "Assinale a alternativa que completa a questão: A categoria habilita o condutor a dirigir veículo motorizado utilizado no transporte de passageiros, cuja lotação exceda a 8 lugares, excluído o do motorista:",
+    "opcoes": [
+      "D",
+      "C",
+      "E",
+      "B"
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 12,
+    "pergunta": "A idade mínima para conduzir um veículo automotor com capacidade acima de 20 passageiros é:",
+    "opcoes": [
+      "20 anos.",
+      "21 anos.",
+      "18 anos.",
+      "19 anos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 13,
+    "pergunta": "No caso de reprovação no exame escrito de legislação de trânsito ou de direção veicular, o candidato poderá repetir o exame:",
+    "opcoes": [
+      "No 15º dia da divulgação do resultado.",
+      "No 16º dia da divulgação do resultado.",
+      "No dia seguinte da divulgação do resultado.",
+      "Não há período de interstício."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 14,
+    "pergunta": "O candidato que pretende se habilitar para a categoria “D” deverá realizar o exame de direção veicular no veículo que tenha:",
+    "opcoes": [
+      "No mínimo, 08 (oito) lugares, sem contar com o do condutor.",
+      "No mínimo, 20 (vinte) lugares.",
+      "Capacidade para transportar, no mínimo, 6000 (seis mil) quilogramas de carga.",
+      "Duas rodas."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 15,
+    "pergunta": "O trator de roda, o trator de esteira, o trator misto ou o equipamento automotor destinado à movimentação de cargas ou execução de trabalho agrícola, de terraplanagem, de construção ou de pavimentação só podem ser conduzidos na via pública por condutor habilitado na(s) categoria(s):",
+    "opcoes": [
+      "A ou B",
+      "AB",
+      "C, D ou E",
+      "Somente pela categoria B"
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 16,
+    "pergunta": "Para habilitar-se na categoria D, o condutor deverá possuir no mínimo:",
+    "opcoes": [
+      "1 ano na categoria B, ou 2 anos na categoria C.",
+      "2 anos na categoria B, ou 1 ano na categoria C.",
+      "Somente 1 ano na categoria C.",
+      "Somente 1 ano na categoria B."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 17,
+    "pergunta": "Para habilitar-se na categoria E, o condutor deverá possuir no mínimo:",
+    "opcoes": [
+      "2 anos na categoria B.",
+      "1 ano na categoria B.",
+      "2 anos na categoria AB.",
+      "1 ano na categoria C."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 18,
+    "pergunta": "A identificação do documento de habilitação e da autoridade expedidora são registrados no:",
+    "opcoes": [
+      "RENAVAM",
+      "RENACH",
+      "RENACOM",
+      "CETRAN"
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 19,
+    "pergunta": "O condutor habilitado na categoria B que, posteriormente, habilitar-se na categoria A, receberá:",
+    "opcoes": [
+      "Dois registros no RENACH.",
+      "Um único registro no RENACOM.",
+      "Um único registro no RENACH.",
+      "Dois registros no RENACOM."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 20,
+    "pergunta": "O candidato poderá requerer simultaneamente:",
+    "opcoes": [
+      "A habilitação nas categorias A e C.",
+      "Categorias A a ACC e habilitação na categoria D.",
+      "Categorias A a ACC e habilitação na categoria B, bem como em AB.",
+      "As categorias A e E."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 21,
+    "pergunta": "Assinale a alternativa que completa a questão: O condutor de veículo destinado à condução de escolares deve ter idade superior a anos e ser habilitado na categoria.",
+    "opcoes": [
+      "21, B",
+      "18, D",
+      "18, B",
+      "21, D"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 22,
+    "pergunta": "Do condutor de veículo destinado à condução de escolares, exige-se:",
+    "opcoes": [
+      "Não ter cometido nenhuma infração de trânsito.",
+      "Idade superior a 18 anos.",
+      "Apresentação de certificado em curso especializado.",
+      "Apresentação do Registro Nacional de Transportadores Urbanos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 23,
+    "pergunta": "Quando da renovação da CNH o condutor de veículo automotor deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+    "opcoes": [
+      "De 05 (cinco) em 05 (cinco) anos até completar 60 (sessenta) anos de idade.",
+      "De 05 (cinco) em 05 (cinco) anos a partir dos 60 (sessenta) anos de idade.",
+      "De 03 (três) em 03 (três) anos a partir dos 40 (quarenta) anos de idade.",
+      "De 05 (cinco) em 05 (cinco) anos até completar 65 (sessenta e cinco) anos de idade."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 24,
+    "pergunta": "O condutor de veículo automotor, após 65 (sessenta e cinco) anos de idade, ao renovar sua CNH deverá ser submetido ao exame de aptidão física e mental, nos seguintes períodos:",
+    "opcoes": [
+      "De 05 (cinco) em 05 (cinco) anos.",
+      "De 02 (dois) em 02 (dois) anos.",
+      "De 03 (três) em 03 (três) anos.",
+      "De 10 (dez) em 10 (dez) anos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 25,
+    "pergunta": "O condutor que tiver a sua Permissão para Dirigir cassada, poderá reiniciar o processo de habilitação, que consiste em prestar exames de:",
+    "opcoes": [
+      "Aptidão física e mental, avaliação psicológicca e legislação de trânsito.",
+      "Aptidão física e mental, avaliação psicológica, legislação de trânsito e prática de direção veicular.",
+      "Prática de direção veicular.",
+      "Legislação de trânsito e prática de direção veicular."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 26,
+    "pergunta": "A Carteira Nacional de Habilitação não será conferida ao condutor portador da Permissão para Dirigir no término de um ano, se o mesmo cometer:",
+    "opcoes": [
+      "Uma infração de natureza média.",
+      "Uma infração de natureza grave.",
+      "Ser reincidente na infração de natureza leve.",
+      "Uma infração de natureza leve."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 27,
+    "pergunta": "O processo do candidato à habilitação ficará ativado no Órgão ou Entidade Executivo de Trânsito pelo prazo de:",
+    "opcoes": [
+      "06 (seis) meses.",
+      "24 (vinte e quatro) meses.",
+      "12 (doze) meses.",
+      "Durante a validade do exame de sanidade física e mental."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 28,
+    "pergunta": "O candidato para se habilitar na categoria A, poderá realizar o exame de prática de direção veicular em veículo de 2 rodas com cilindrada:",
+    "opcoes": [
+      "De 50 cm3.",
+      "De 100 cm3.",
+      "De 120 cm3.",
+      "Acima de 120 cm3."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 29,
+    "pergunta": "A não obtenção da Carteira Nacional de Habilitação, pelo permissionário, implica em reiniciar todo o processo de habilitação, no prazo de:",
+    "opcoes": [
+      "30 dias.",
+      "15 dias.",
+      "360 dias.",
+      "A qualquer tempo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 30,
+    "pergunta": "A Licença de Aprendizagem para prática de direção veicular em via pública, ou em locais autorizados para este fim, será expedida pelo DETRAN ao candidato que:",
+    "opcoes": [
+      "Tenha completado 16 (dezesseis) anos de idade.",
+      "Tenha completado 18 (dezoito) anos de idade.",
+      "Tenha prestado o exame em veículo particular.",
+      "Tenha sido aprovado nos exames de aptidão física e mental , avaliação psicológica e de legislação de trânsito."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  }
+]

@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual a validade da Permissão para Dirigir (PPD) e qual a condição para a obtenção da Carteira Nacional de Habilitação (CNH) definitiva?",
+    "opcoes": [
+      "Validade de 2 anos, sendo obrigatória a frequência em curso de reciclagem ao final do período.",
+      "Validade de 1 ano. A CNH definitiva será concedida desde que o condutor não tenha cometido nenhuma infração grave ou gravíssima, ou não seja reincidente em infração média.",
+      "Validade de 1 ano. A CNH definitiva será concedida desde que não tenha cometido nenhuma infração de natureza gravíssima ou seja reincidente em infrações médias.",
+      "Validade de 6 meses, sendo obrigatória a obtenção da CNH definitiva após esse prazo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual a penalidade e a medida administrativa aplicável ao condutor flagrado dirigindo veículo com a CNH ou Permissão para Dirigir (PPD) cassada ou com suspensão do direito de dirigir?",
+    "opcoes": [
+      "Multa (três vezes), e retenção do veículo.",
+      "Multa (cinco vezes), recolhimento do documento de habilitação e retenção do veículo.",
+      "Multa (dez vezes), recolhimento do documento de habilitação e apreensão do veículo.",
+      "Multa (cinco vezes), recolhimento do documento de habilitação e remoção do veículo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 3,
+    "pergunta": "A inspeção veicular da frota brasileira, visando o controle de poluentes e ruídos, é uma condição obrigatória para:",
+    "opcoes": [
+      "O registro do veículo no RENAVAM.",
+      "A obtenção de novo Certificado de Registro de Veículo (CRV).",
+      "O licenciamento anual do veículo (CRLV).",
+      "A transferência de propriedade do veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 4,
+    "pergunta": "Em vias de duplo sentido de circulação e com pista única, o condutor que tiver o propósito de entrar à esquerda deverá:",
+    "opcoes": [
+      "Sinalizar e deslocar-se para o acostamento à direita, aguardando o momento seguro para cruzar a via.",
+      "Sinalizar e aproximar-se o máximo possível do eixo ou da linha divisória da pista.",
+      "Sinalizar e deslocar-se o mais rápido possível para o bordo esquerdo da pista.",
+      "Sinalizar e aguardar a oportunidade para realizar a manobra sem sair da sua faixa de trânsito."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 5,
+    "pergunta": "O extintor de incêndio nos automóveis, utilitários, caminhonetes, caminhões e triciclos de cabine fechada é um equipamento:",
+    "opcoes": [
+      "Obrigatório e sua falta é uma infração grave.",
+      "Facultativo, ficando a critério do proprietário do veículo a sua instalação.",
+      "Obrigatório, exceto para veículos que possuam mais de 8 lugares.",
+      "Facultativo, mas se instalado, sua falta de manutenção é infração gravíssima."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 6,
+    "pergunta": "A luz indicadora no painel do veículo que, ao acender-se na cor vermelha, exige que o condutor pare imediatamente o veículo para evitar danos graves, refere-se geralmente a falhas no sistema de:",
+    "opcoes": [
+      "Carga da bateria.",
+      "Nível de combustível.",
+      "Pressão do óleo lubrificante do motor.",
+      "Sistema de freios de estacionamento."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual a principal função do catalisador, componente do sistema de escape dos veículos?",
+    "opcoes": [
+      "Transformar a corrente elétrica de baixa para alta tensão para as velas de ignição.",
+      "Reduzir o ruído gerado pela exaustão dos gases do motor.",
+      "Diminuir a emissão de gases poluentes nocivos transformando-os em substâncias menos agressivas.",
+      "Manter a temperatura ideal do motor, auxiliando o sistema de arrefecimento."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 8,
+    "pergunta": "São consideradas atitudes de direção defensiva, preventiva e correta, exceto:",
+    "opcoes": [
+      "Guardar distância de segurança lateral e frontal do veículo à frente.",
+      "Dirigir com atenção difusa, observando o painel e os espelhos retrovisores com frequência.",
+      "Aumentar a velocidade ao perceber que será ultrapassado por outro veículo na faixa da esquerda.",
+      "Planejar o trajeto com antecedência, prevendo condições adversas do tempo, via e tráfego."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 9,
+    "pergunta": "Em situações de aquaplanagem, onde há perda de contato dos pneus com o solo devido a uma camada de água na pista, o condutor deve:",
+    "opcoes": [
+      "Pisar bruscamente no freio para tentar dissipar a água e recuperar a aderência.",
+      "Acelerar o veículo e girar o volante para o lado oposto da derrapagem.",
+      "Segurar firmemente o volante, eliminar a pressão do acelerador e fazer pequenos movimentos na direção até recuperar a aderência.",
+      "Ligar o pisca-alerta e parar imediatamente o veículo no acostamento."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 10,
+    "pergunta": "O que a 'regra dos dois segundos' estabelece em termos de distância de seguimento?",
+    "opcoes": [
+      "A distância mínima de 2 metros para cada 10 km/h de velocidade.",
+      "O tempo que o veículo da frente demora para reagir a uma frenagem de emergência.",
+      "A distância segura medida pelo tempo que o veículo leva para passar por um ponto fixo após a passagem do veículo da frente.",
+      "O tempo máximo de reação do condutor (Tempo de Reação) em condições normais de tráfego."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 11,
+    "pergunta": "É considerada uma condição adversa do condutor que afeta diretamente o tempo de reação e a capacidade de dirigir com segurança:",
+    "opcoes": [
+      "O mau estado de conservação do veículo (pneus carecas).",
+      "O excesso de luminosidade (ofuscamento).",
+      "A condução sob efeito de bebida alcoólica ou substâncias psicoativas.",
+      "O trânsito em vias com buracos e pavimentação irregular."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual a penalidade e a medida administrativa para o condutor que se recusa a ser submetido a teste, exame clínico ou outro procedimento que permita certificar a influência de álcool ou outra substância psicoativa?",
+    "opcoes": [
+      "Multa (três vezes), e suspensão do direito de dirigir por 12 (doze) meses.",
+      "Multa (dez vezes), suspensão do direito de dirigir por 12 (doze) meses, recolhimento do documento de habilitação e retenção do veículo.",
+      "Multa (cinco vezes), suspensão do direito de dirigir por 6 (seis) meses e recolhimento da CNH.",
+      "Multa (dez vezes), suspensão do direito de dirigir por 6 (seis) meses e remoção do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 13,
+    "pergunta": "Em caso de acidente de trânsito com vítima, qual é o número de emergência do SAMU (Serviço de Atendimento Móvel de Urgência)?",
+    "opcoes": [
+      "193",
+      "190",
+      "192",
+      "198"
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 14,
+    "pergunta": "Ao deparar-se com uma vítima de acidente de trânsito, a primeira e mais importante providência do cidadão é:",
+    "opcoes": [
+      "Movimentar a vítima imediatamente para o acostamento.",
+      "Verificar se a vítima está consciente e se consegue respirar.",
+      "Avaliar a cena e garantir a segurança do local, sinalizando o acidente.",
+      "Remover o capacete do motociclista, caso ele esteja usando."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 15,
+    "pergunta": "Em caso de acidente com vítima, é proibido ao cidadão que presta o primeiro socorro:",
+    "opcoes": [
+      "Manter a calma e tranquilizar o acidentado.",
+      "Movimentar a vítima ou retirar objetos encravados.",
+      "Sinalizar o local do acidente e acionar o socorro especializado.",
+      "Utilizar panos limpos ou gaze para conter sangramentos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual a distância mínima de sinalização para um acidente em rodovia cuja velocidade máxima permitida seja de $100~km/h$, em condições de pista seca?",
+    "opcoes": [
+      "50 passos longos.",
+      "100 metros ou 100 passos longos.",
+      "80 metros ou 80 passos longos.",
+      "200 metros ou 200 passos longos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 17,
+    "pergunta": "O monóxido de carbono, um dos gases poluentes emitidos pelos veículos, é perigoso para a saúde humana porque:",
+    "opcoes": [
+      "Provoca chuvas ácidas que destroem edifícios e plantações.",
+      "Afeta a capacidade de oxigenação da hemoglobina, podendo causar asfixia.",
+      "Causa tonturas e irritação nos olhos, contribuindo para o efeito estufa.",
+      "É o principal responsável pela destruição da camada de ozônio."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente e Cidadania"
+  },
+  {
+    "id": 18,
+    "pergunta": "O que constitui infração grave, com penalidade de multa e retenção do veículo para regularização, no que tange à poluição sonora?",
+    "opcoes": [
+      "Usar buzina de forma prolongada e sucessiva.",
+      "Usar buzina entre as $22~h$ e as $6~h$.",
+      "Usar no veículo equipamento com som em volume ou frequência não autorizados pelo CONTRAN.",
+      "Transitar com o silenciador do motor com defeito."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente e Cidadania"
+  },
+  {
+    "id": 19,
+    "pergunta": "A qualidade ou estado de cidadão, que é um indivíduo consciente de seu papel na sociedade, é o conceito de:",
+    "opcoes": [
+      "Personalidade.",
+      "Habilidade Interpessoal.",
+      "Relações Humanas.",
+      "Cidadania."
+    ],
+    "resposta_correta": "D",
+    "tema": "Meio Ambiente e Cidadania"
+  },
+  {
+    "id": 20,
+    "pergunta": "A prática do consumo consciente e a manutenção preventiva do veículo, especialmente a regulagem do motor e a troca de filtros, são atitudes que contribuem para:",
+    "opcoes": [
+      "O agravamento do efeito estufa e da poluição sonora.",
+      "A diminuição da emissão de gases poluentes e o aumento do consumo de combustíveis.",
+      "A redução da poluição ambiental e a melhoria da qualidade do ar.",
+      "A poluição visual causada por objetos abandonados na via."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente e Cidadania"
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual a infração, penalidade e medida administrativa para o condutor que utilizar o veículo para, deliberadamente, interromper, restringir ou perturbar a circulação na via sem autorização do órgão competente?",
+    "opcoes": [
+      "Infração gravíssima, multa (dez vezes) e suspensão do direito de dirigir por 12 meses.",
+      "Infração média, multa e retenção do veículo.",
+      "Infração grave, multa (cinco vezes) e remoção do veículo.",
+      "Infração gravíssima, multa (vinte vezes), suspensão do direito de dirigir por 12 meses e remoção do veículo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 22,
+    "pergunta": "O tempo percorrido pelo veículo desde a percepção do perigo até o momento em que o condutor pisa no freio é chamado de:",
+    "opcoes": [
+      "Distância de Frenagem (DF).",
+      "Distância Total de Parada (DTP).",
+      "Tempo de Frenagem (TF).",
+      "Distância de Reação (DR)."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 23,
+    "pergunta": "O que caracteriza a imprudência na direção defensiva?",
+    "opcoes": [
+      "A falta de habilidade ou de conhecimento técnico para realizar manobras.",
+      "A ação com descaso, falta de observação ou de atenção, como não realizar a manutenção do veículo.",
+      "A desobediência às normas e regras de conduta, mesmo conhecendo-as, como exceder a velocidade.",
+      "A incapacidade de prever situações de risco com antecedência."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 24,
+    "pergunta": "Em relação à circulação, o CTB estabelece que os veículos de maior porte serão sempre responsáveis pela segurança dos menores, os motorizados pelos não motorizados e, juntos, pela incolumidade dos:",
+    "opcoes": [
+      "Caminhões.",
+      "Ciclistas.",
+      "Motociclistas.",
+      "Pedestres."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 25,
+    "pergunta": "A luz no painel do veículo que, ao acender-se na cor amarela/laranja, indica que o condutor deve ter atenção e providenciar a manutenção, refere-se geralmente a falhas no sistema de:",
+    "opcoes": [
+      "Pressão do óleo lubrificante do motor.",
+      "Temperatura do motor (superaquecimento).",
+      "Injeção eletrônica ou baixo nível de combustível.",
+      "Sistema de freios de serviço (Freio ABS)."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 26,
+    "pergunta": "A troca intermitente das luzes baixa e alta (piscar os faróis) só é permitida para:",
+    "opcoes": [
+      "Advertir outros motoristas da existência de fiscalização (radar).",
+      "Indicar a existência de risco à segurança ou a intenção de ultrapassar.",
+      "Cumprir o que determina a sinalização de regulamentação da via.",
+      "Pedir passagem a um veículo lento que está à sua frente."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 27,
+    "pergunta": "Em uma rodovia de pista dupla, sem sinalização regulamentadora, qual a velocidade máxima permitida para automóveis, camionetas e motocicletas?",
+    "opcoes": [
+      "$110~km/h$",
+      "$100~km/h$",
+      "$90~km/h$",
+      "$80~km/h$"
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 28,
+    "pergunta": "Qual a distância mínima de sinalização para um acidente em via arterial, cuja velocidade máxima permitida é $60~km/h$, à noite ou sob chuva, neblina ou fumaça?",
+    "opcoes": [
+      "30 metros ou 30 passos longos.",
+      "60 metros ou 60 passos longos.",
+      "120 metros ou 120 passos longos.",
+      "160 metros ou 160 passos longos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 29,
+    "pergunta": "O Sistema Nacional de Trânsito (SNT) é composto por um conjunto de órgãos e entidades que tem como finalidade:",
+    "opcoes": [
+      "Somente fiscalizar e aplicar penalidades por infrações de trânsito.",
+      "Planejar, administrar, normatizar e executar as atividades de trânsito.",
+      "Apenas educar e promover a segurança no trânsito.",
+      "Julgar os recursos de multas e arrecadar os valores provenientes de estada e remoção de veículos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 30,
+    "pergunta": "Em relação aos sistemas de um veículo de 4 rodas, o que liga a força motriz do motor à caixa de marchas, permitindo a troca de marchas e a parada do veículo sem desligar o motor?",
+    "opcoes": [
+      "O diferencial.",
+      "O virabrequim.",
+      "O sistema de embreagem.",
+      "O sistema de transmissão."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  }
+]

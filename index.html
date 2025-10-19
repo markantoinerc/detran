@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulados Detran - Estudo Personalizado</title>
+    <style>
+        body { font-family: Arial, sans-serif; padding: 20px; }
+        .questao { margin-bottom: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 5px; }
+        .questao h3 { margin-top: 0; }
+        label { display: block; margin: 5px 0; cursor: pointer; }
+        input[type="radio"] { margin-right: 10px; }
+        button { padding: 10px 20px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer; margin-top: 20px; margin-right: 10px; }
+        button:hover { background-color: #0056b3; }
+        .resultado { padding: 15px; border-radius: 5px; margin-top: 20px; font-weight: bold; }
+        .acerto { background-color: #d4edda; color: #155724; border: 1px solid #c3e6cb; }
+        .erro { background-color: #f8d7da; color: #721c24; border: 1px solid #f5c6cb; }
+        .loading { color: #007bff; font-style: italic; }
+        
+        .explicacao-ia { 
+            background-color: #f0f8ff; 
+            padding: 15px; 
+            border-radius: 5px; 
+            margin-top: 15px; 
+            border: 1px dashed #b8daff;
+        }
+        
+        .explicacao-ia strong { 
+            color: #0056b3;
+        }
+        .explicacao-ia ul { 
+            margin-top: 10px; 
+        }
+
+        /* Novo estilo para o botão de refazer */
+        .refazer-btn {
+            background-color: #28a745;
+            font-size: 1.1em;
+            margin-top: 30px;
+        }
+        .refazer-btn:hover {
+            background-color: #1e7e34;
+        }
+    </style>
+</head>
+<body>
+    <h1>Selecione o Simulador</h1>
+    
+    <select id="simuladoSelect">
+        <option value="#">Selecione um simulado</option>
+        <option value="1">Simulado 1</option>
+        <option value="2">Simulado 2</option>
+        <option value="3">Simulado 3</option>
+        <option value="4">Simulado 4</option>
+        <option value="5">Simulado 5</option>
+        <option value="6">Simulado 6</option>
+        <option value="7">Simulado 7</option>
+        <option value="8">Simulado 8</option>
+        <option value="9">Simulado 9</option>
+        <option value="10">Simulado 10</option>
+        <selection value="11">Simulado 11</selection>
+        <option value="12">Simulado 12</option>
+        <option value="13">Simulado 13</option>
+        <option value="14">Simulado 14</option>
+        <option value="15">Simulado 15</option>
+    </select>
+
+    <div id="simuladoContainer">
+        </div>
+
+    <script>
+        // *****************************************************************
+        // 1. CONFIGURAÇÃO DA API (Chave de API Inserida)
+        // *****************************************************************
+        const GEMINI_API_KEY = 'AIzaSyAWvvUmrofbfhmi5ZF5FDsafbC-yYMXldc'; 
+        const GEMINI_API_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent';
+
+        let simuladoData = null; 
+
+        document.getElementById('simuladoSelect').addEventListener('change', function() {
+            var selectedValue = this.value;
+            if (selectedValue !== "#") {
+                carregarSimulado(selectedValue);
+            } else {
+                document.getElementById('simuladoContainer').innerHTML = '';
+                simuladoData = null;
+            }
+        });
+
+        // Função auxiliar para encontrar o texto da opção
+        function getOpcaoTexto(questao, letra) {
+            // Verifica se a letra é válida (A, B, C...)
+            if (!letra || letra.length !== 1 || letra < 'A' || letra > 'Z') {
+                return 'N/A';
+            }
+            const index = letra.charCodeAt(0) - 'A'.charCodeAt(0);
+            return questao.opcoes[index] || `Opção ${letra} (Texto não encontrado)`;
+        }
+
+        async function carregarSimulado(simuladoId) {
+            const container = document.getElementById('simuladoContainer');
+            container.innerHTML = '<p class="loading">Carregando simulado...</p>'; 
+            const jsonPath = `jsons/${simuladoId}.json`; 
+
+            try {
+                const response = await fetch(jsonPath);
+                
+                if (!response.ok) {
+                    throw new Error(`Erro ao carregar (Status: ${response.status})`);
+                }
+
+                simuladoData = await response.json();
+                renderizarSimulado(simuladoId);
+
+            } catch (error) {
+                console.error("Falha ao carregar o simulado:", error);
+                container.innerHTML = `<p style="color: red;">Erro: Não foi possível carregar o simulado ${simuladoId}. Verifique se o arquivo ${jsonPath} existe.</p>`;
+            }
+        }
+
+        function renderizarSimulado(simuladoId) {
+            const container = document.getElementById('simuladoContainer');
+            
+            let htmlContent = `
+                <h2>Simulado ${simuladoId} (${simuladoData.length} Questões)</h2>
+                <form id="simuladoForm">
+            `;
+
+            simuladoData.forEach((questao, index) => {
+                const nomeInput = `questao_${questao.id}`;
+                
+                htmlContent += `
+                    <div class="questao" data-tema="${questao.tema}">
+                        <h3>${index + 1}. ${questao.pergunta}</h3>
+                `;
+                
+                questao.opcoes.forEach((opcao, i) => {
+                    const letra = String.fromCharCode(65 + i); 
+                    
+                    htmlContent += `
+                        <label>
+                            <input type="radio" name="${nomeInput}" value="${letra}" required>
+                            ${opcao}
+                        </label>
+                    `;
+                });
+                
+                htmlContent += `</div>`;
+            });
+
+            htmlContent += `<button type="submit">Finalizar Simulado e Corrigir</button></form>`;
+            
+            container.innerHTML = htmlContent;
+
+            document.getElementById('simuladoForm').addEventListener('submit', corrigirSimulado);
+        }
+        
+        async function corrigirSimulado(event) {
+            event.preventDefault(); 
+            
+            if (!simuladoData) return;
+            
+            let acertos = 0;
+            const errosList = [];
+            const form = event.target;
+            const simuladoNome = document.getElementById('simuladoSelect').value;
+            const resultadoContainer = document.getElementById('simuladoContainer');
+            
+            // 1. Coletar e Corrigir Respostas
+            simuladoData.forEach(questao => {
+                const nomeInput = `questao_${questao.id}`;
+                const respostaSelecionadaLetra = form.elements[nomeInput] ? form.elements[nomeInput].value : null; 
+                
+                const respostaSelecionadaTexto = getOpcaoTexto(questao, respostaSelecionadaLetra);
+                const corretaTexto = getOpcaoTexto(questao, questao.resposta_correta);
+
+                if (respostaSelecionadaLetra === questao.resposta_correta) {
+                    acertos++;
+                } else {
+                    errosList.push({
+                        pergunta: questao.pergunta,
+                        sua_resposta_letra: respostaSelecionadaLetra, 
+                        sua_resposta_texto: respostaSelecionadaTexto, 
+                        correta_letra: questao.resposta_correta,
+                        correta_texto: corretaTexto,
+                        tema: questao.tema
+                    });
+                }
+            });
+
+            // 2. Exibir Resultado na Tela (Parte Rápida)
+            const totalQuestoes = simuladoData.length;
+            let resultadoHTML = `<h2>Resultado Final - Simulado ${simuladoNome}</h2>`;
+            resultadoHTML += `<p>Total de Questões: ${totalQuestoes}</p>`;
+            resultadoHTML += `<p class="resultado ${acertos >= totalQuestoes * 0.7 ? 'acerto' : 'erro'}">
+                                Acertos: ${acertos} de ${totalQuestoes} (${((acertos / totalQuestoes) * 100).toFixed(0)}%)
+                              </p>`;
+
+            if (acertos >= totalQuestoes * 0.7 && acertos < totalQuestoes) {
+                resultadoHTML += `<p>Parabéns, amor! Continue assim!</p>`;
+            } 
+            
+            resultadoContainer.innerHTML = resultadoHTML;
+
+            // 3. Processamento dos Erros
+            if (errosList.length > 0) {
+                
+                const loadingMessage = document.createElement('p');
+                loadingMessage.className = 'loading';
+                loadingMessage.innerHTML = `Analisando seus ${errosList.length} erros com o Professor IA Gemini... Aguarde.`;
+                resultadoContainer.appendChild(loadingMessage);
+                
+                const explicacaoIA = await solicitarExplicacaoDoGemini(errosList);
+                
+                loadingMessage.remove();
+
+                // 4. Exibir Explicação da IA
+                let explicacaoHTML = '<h3>Explicação Detalhada do Professor IA:</h3>';
+                explicacaoHTML += `<div class="explicacao-ia">${explicacaoIA}</div>`; 
+
+                resultadoContainer.innerHTML += explicacaoHTML;
+                
+            } else {
+                resultadoContainer.innerHTML += `<p>DIVOU!! Mandou bem, gatinha! Nenhum erro!!</p>`;
+            }
+            
+            // 5. NOVO: Botão de Refazer, posicionado no final
+            resultadoContainer.innerHTML += `<button class="refazer-btn" onclick="carregarSimulado('${simuladoNome}')">Estudei! Fazer este simulado novamente.</button>`;
+        }
+        
+        async function solicitarExplicacaoDoGemini(erros) {
+            if (!GEMINI_API_KEY) {
+                return "ERRO: A chave da API do Gemini não foi configurada no código-fonte.";
+            }
+
+            const errosFormatados = erros.map((erro, index) => {
+                return `Questão ${index + 1}: Tema: ${erro.tema}. Pergunta: "${erro.pergunta}". Sua resposta marcada foi: "${erro.sua_resposta_letra}" com o texto: "${erro.sua_resposta_texto}". A resposta correta era: "${erro.correta_letra}" com o texto: "${erro.correta_texto}".`;
+            }).join('\n\n');
+
+            const prompt = `Você é um professor de trânsito especialista e didático. Sua tarefa é analisar os erros do aluno a seguir e criar uma explicação concisa e focada nos conceitos da prova do Detran.
+
+A resposta deve ser em português e **TODO O CONTEÚDO DEVE SER ENVOLVIDO POR UMA ÚNICA TAG <div>**. Use tags HTML como <p>, <strong>, <ul> e <li> para formatar o texto.
+
+Sua explicação deve:
+1. Começar com um parágrafo de introdução encorajadora.
+2. Para cada questão errada:
+   - Apresente o TEMA e a PERGUNTA que o aluno errou (use <strong> para destacar).
+   - Mencione explicitamente a resposta que o aluno selecionou e explique de forma didática o porquê dela estar incorreta. **Use o texto completo da resposta do aluno e da resposta correta, que estão listados abaixo.**
+   - Explique o conceito correto.
+   - Use uma lista (<ul>) para os pontos-chave de correção e memorização.
+3. Finalize com uma frase de encorajamento.
+
+LISTA DE ERROS:
+${errosFormatados}`;
+
+            try {
+                const response = await fetch(`${GEMINI_API_URL}?key=${GEMINI_API_KEY}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        contents: [{ role: "user", parts: [{ text: prompt }] }],
+                        generationConfig: {
+                            "temperature": 0.2 
+                        }
+                    }),
+                });
+
+                if (!response.ok) {
+                    const errorData = await response.json();
+                    console.error("Erro na API do Gemini:", errorData);
+                    return `[ERRO NA API]: Não foi possível gerar a explicação. Detalhes: ${errorData.error.message || response.statusText}`;
+                }
+
+                const data = await response.json();
+                
+                let generatedText = data.candidates[0].content.parts[0].text.trim();
+                
+                if (generatedText.startsWith("```")) {
+                    generatedText = generatedText.replace(/^```[a-zA-Z]*\n/, '').replace(/\n```$/, '');
+                }
+                
+                return generatedText;
+
+            } catch (error) {
+                console.error("Erro de rede/chamada:", error);
+                return `[ERRO DE CONEXÃO]: Verifique sua conexão ou se a chave da API está correta.`;
+            }
+        }
+    </script>
+
+    <footer>
+        <p>Made with ❤️ by Mark</p>
+    </footer>
+</body>
+</html>

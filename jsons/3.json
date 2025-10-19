@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Automotor; elétrico, de propulsão humana, de tração animal, reboque ou semirreboque, é a classificação dos veículos quanto a:",
+    "opcoes": [
+      "Espécie.",
+      "Categoria.",
+      "Carga.",
+      "Tração."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 2,
+    "pergunta": "É considerado veículo de passageiro:",
+    "opcoes": [
+      "Carroça.",
+      "Caminhão.",
+      "Caminhonete.",
+      "Bicicleta."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 3,
+    "pergunta": "De acordo com a legislação de trânsito, os veículos quanto à espécie são:",
+    "opcoes": [
+      "Oficial, particular, aluguel e de corrida.",
+      "Particular, aluguel e escolar.",
+      "Passageiros, carga, missão diplomática e aluguel.",
+      "Passageiros, carga, misto, competição, tração, especial e coleção."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 4,
+    "pergunta": "Assinale a alternativa correta. Não é considerado veículo de passageiros:",
+    "opcoes": [
+      "Motoneta.",
+      "Bicicleta.",
+      "Carroça",
+      "Triciclo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 5,
+    "pergunta": "Bonde, triciclo, bicicleta, reboque ou semirreboque são veículos, quanto à espécie, classificados como:",
+    "opcoes": [
+      "Misto.",
+      "Passageiros.",
+      "Tração.",
+      "Especial."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 6,
+    "pergunta": "Camioneta e utilitário são veículos, quanto à espécie, classificados como:",
+    "opcoes": [
+      "Tração.",
+      "Passageiros.",
+      "Misto.",
+      "Carga."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 7,
+    "pergunta": "Caminhonete e motocicleta são veículos, quanto à espécie, classificados como:",
+    "opcoes": [
+      "Passageiros.",
+      "Carga.",
+      "Misto.",
+      "Tração."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 8,
+    "pergunta": "Segundo o Código de Trânsito Brasileiro a identificação externa de um veículo de duas rodas é feita por meio:",
+    "opcoes": [
+      "Do registro de propriedade do veículo.",
+      "Do número do motor.",
+      "Das placas dianteira e traseira com caracteres iguais as do registro do veículo.",
+      "Da placa traseira com caracteres iguais ao do registro do veículo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 9,
+    "pergunta": "Assinale a alternativa que responda a questão. O quadricíclo é um veículo classificado quanto à espécie de _______ e de ________.",
+    "opcoes": [
+      "Misto; competição.",
+      "Passageiros; tração.",
+      "Passageiros; carga.",
+      "Espécie; coleção"
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 10,
+    "pergunta": "Veículos destinados à formação de condutores são classificados quanto à categoria, em:",
+    "opcoes": [
+      "De aluguel.",
+      "De aprendizagem.",
+      "Particular.",
+      "Oficial."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 11,
+    "pergunta": "As características de um veículo podem ser modificadas quando:",
+    "opcoes": [
+      "Sempre que for envolvido em acidente.",
+      "Houver prévia autorização da autoridade de trânsito.",
+      "O proprietário simplesmente quitar seus débitos com o órgão competente.",
+      "O infrator não houver completado 20 pontos."
+    ],
+    "referencia_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 12,
+    "pergunta": "As bicicletas deverão ser dotadas dos seguintes equipamentos obrigatórios:",
+    "opcoes": [
+      "Campainha, sinalização noturna dianteira, traseira, lateral e nos pedais e espelho retrovisor do lado esquerdo.",
+      "Campainha e espelho retrovisor do lado esquerdo e do lado direito.",
+      "Campainha e sinalização noturna.",
+      "Cinto de segurança."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 13,
+    "pergunta": "O transporte de passageiros em veículo de carga será permitido:",
+    "opcoes": [
+      "Onde não houver linha regular de ônibus para transportar trabalhadores rurais.",
+      "Onde não houver linha regular de ônibus e autorizado pela autoridade competente, obedecidas às condições de segurança.",
+      "Desde que obedecidas as condições de segurança, para o transporte de desportistas.",
+      "Para o transporte de estudantes nas zonas rurais."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 14,
+    "pergunta": "Assinale a alternativa que completa a questão: O veículo será identificado internamente por caracteres gravados no _________ ou no ____________ e externamente por meio de ___________dianteira e traseira.",
+    "opcoes": [
+      "Radiador; cilindro; lanternas.",
+      "Motor; cárter; rodas.",
+      "Chassi; monobloco; placas.",
+      "Carburador; chassi; placas."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 15,
+    "pergunta": "O ciclomotor é veículo classificado quanto à espécie como:",
+    "opcoes": [
+      "Misto.",
+      "Tração.",
+      "Especial.",
+      "Passageiros."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 16,
+    "pergunta": "São dispensados da placa dianteira, os veículos de:",
+    "opcoes": [
+      "Quatro rodas.",
+      "Mais de quatro rodas.",
+      "Duas ou três rodas.",
+      "Todos os veículos são obrigados a ter placa dianteira."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 17,
+    "pergunta": "As placas com as cores verde e amarela da Bandeira Nacional são usadas pelos veículos de representação pessoal do(s):",
+    "opcoes": [
+      "Governadores.",
+      "Presidente e Vice-Presidente da República.",
+      "Prefeitos.",
+      "Secretários municipais."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 18,
+    "pergunta": "Ao registrar o veículo automotor, o órgão executivo de trânsito expedirá o documento:",
+    "opcoes": [
+      "Certificado .",
+      "Certificado de Segurança Veicular.",
+      "Certificado de Registro de Veículo.",
+      "Certificado de Registro e Licenciamento de Veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 19,
+    "pergunta": "Constitui documento de porte obrigatório:",
+    "opcoes": [
+      "Certificado de Registro de Veículo.",
+      "Autorização, Permissão para Dirigir ou Carteira Nacional de Habilitação.",
+      "Comprovante do pagamento do Seguro Obrigatório.",
+      "Comprovante do pagamento atualizado do IPVA."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 20,
+    "pergunta": "A expedição de novo Certificado de Registro de Veículo, dar-se-á quando:",
+    "opcoes": [
+      "Houver transferência de propriedade.",
+      "Houver mudanças nos equipamentos obrigatórios.",
+      "De doze em doze meses.",
+      "Após o pagamento do I P V A."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 21,
+    "pergunta": "No caso de transferência de propriedade, o prazo para o proprietário adotar as providências necessárias à efetivação da expedição de novo Certificado de Registro de Veículo é de:",
+    "opcoes": [
+      "15 dias.",
+      "De imediato.",
+      "30 dias.",
+      "A qualquer tempo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 22,
+    "pergunta": "A expedição de novo Certificado de Registro de Veículo é obrigatória quando:",
+    "opcoes": [
+      "O proprietário mudar de endereço no mesmo Município.",
+      "Houver mudança de categoria.",
+      "O veículo circular acoplado a semirreboque.",
+      "O veículo for importado por membro de missão diplomática."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 23,
+    "pergunta": "O proprietário de veículo irrecuperável ou definitivamente desmontado deverá requerer a baixa do registro, sendo vedada à remontagem do veículo sobre o mesmo ______________, de forma a manter o registro anterior.",
+    "opcoes": [
+      "Chassi",
+      "Agregados",
+      "Monobloco",
+      "Número de Registro"
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 24,
+    "pergunta": "O Licenciamento Anual do Veículo vincula-se ao:",
+    "opcoes": [
+      "Pagamento de exames de avaliação psicológica e aptidão física.",
+      "Pagamento do seguro total e DPVAT.",
+      "Pagamento de IPVA, Seguro Obrigatório e inexistência de débitos de multas de trânsito.",
+      "Pagamento de IPVA e Seguro Obrigatório."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 25,
+    "pergunta": "Caso o veículo tenha pendência de multa por infração de trânsito, não poderá:",
+    "opcoes": [
+      "Renovar o Certificado de Registro do Veículo.",
+      "Renovar o Licenciamento Anual do Veículo.",
+      "Renovar o Seguro Obrigatório.",
+      "Adquirir novo veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 26,
+    "pergunta": "O órgão executivo de trânsito não expedirá novo Certificado de Registro de Veículo com apresentação de:",
+    "opcoes": [
+      "Certificado de segurança veicular.",
+      "Débitos fiscais e de multas de trânsito e ambientais, vinculadas ao veículo.",
+      "Autorização do Ministério das Relações Exteriores.",
+      "Certificado de inalteração das características do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 27,
+    "pergunta": "Assinale a alternativa correta:",
+    "opcoes": [
+      "O veículo será licenciado mesmo estando em débito com tributos, encargos e multas de trânsito e ambientais.",
+      "Os veículos novos estão sujeitos ao licenciamento durante o trajeto entre a fábrica e o município de destino.",
+      "É obrigatório o porte do Certificado de Licenciamento Anual.",
+      "O primeiro licenciamento não será feito simultaneamente ao registro."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 28,
+    "pergunta": "Os veículos destinados à condução coletiva de escolares, poderão circular nas vias com autorização emitida pelo:",
+    "opcoes": [
+      "Órgão e entidade executivos de trânsito do Município.",
+      "Órgão e entidade executivos de trânsito do Estado e do Distrito Federal.",
+      "Órgão e entidade executivos rodoviários do Estado e do Distrito Federal.",
+      "Órgão máximo executivo de trânsito da União."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 29,
+    "pergunta": "A realização de qualquer ato público que interfira no trânsito depende de:",
+    "opcoes": [
+      "Licença especial do Prefeito.",
+      "Prévia autorização da Autoridade de Trânsito com circunscrição sobre a via.",
+      "Autorização do Governador.",
+      "Autorização de todos os moradores locais."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 30,
+    "pergunta": "Marca, modelo, ano de fabricação, cor, número do chassi, são:",
+    "opcoes": [
+      "Acessórios do veículo.",
+      "Equipamentos obrigatórios.",
+      "Características legais e essenciais do veículo.",
+      "Elementos utilizados, somente, para controle das montadoras de veículos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  }
+]

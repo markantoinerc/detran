@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "A atual legislação de trânsito intitula-se:",
+    "opcoes": [
+      "Código Nacional de Trânsito.",
+      "Código de Trânsito.",
+      "Código de Trânsito Brasileiro.",
+      "Código Brasileiro de Trânsito."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 2,
+    "pergunta": "O trânsito de qualquer natureza nas vias terrestres do território nacional, abertas à circulação, rege-se pelo:",
+    "opcoes": [
+      "Código de Trânsito Brasileiro.",
+      "Código Nacional de Trânsito.",
+      "Código Brasileiro de Trânsito.",
+      "Código de Trânsito."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 3,
+    "pergunta": "Considera-se trânsito a utilização das vias por:",
+    "opcoes": [
+      "Pessoas e animais, isolados ou em grupos.",
+      "Pessoas, veículos e animais, isolados ou em grupos, conduzidos ou não.",
+      "Veículos conduzidos por condutores habilitados.",
+      "Pessoas e veículos, conduzidos ou não."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 4,
+    "pergunta": "A utilização das vias por pessoas, veículos e animais é para fins de:",
+    "opcoes": [
+      "Circulação, parada e estacionamento.",
+      "Circulação e estacionamento.",
+      "Circulação, parada e operação de carga ou descarga.",
+      "Circulação, parada, estacionamento e operação de carga ou descarga."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 5,
+    "pergunta": "São consideradas vias terrestres urbanas e rurais:",
+    "opcoes": [
+      "Ruas, avenidas e vias internas pertencentes aos condomínios constituídos por unidades autônomas.",
+      "Ruas, avenidas, logradouros, caminhos, passagens, estradas, rodovias, praias abertas à circulação pública e as vias internas pertencentes aos condomínios constituídos por unidades autônomas.",
+      "Estradas e rodovias.",
+      "Praias abertas à circulação pública."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 6,
+    "pergunta": "As praias abertas à circulação pública e as vias internas pertencentes aos condomínios constituídos por unidades autônomas são, para efeito do Código de Trânsito Brasileiro, consideradas:",
+    "opcoes": [
+      "Vias terrestres.",
+      "Áreas autônomas.",
+      "Vias privativas.",
+      "Áreas restritas."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 7,
+    "pergunta": "A Junta Administrativa de Recursos de Infrações é um órgão colegiado componente do:",
+    "opcoes": [
+      "Conselho Estadual de Trânsito.",
+      "Conselho Nacional de Trânsito.",
+      "Sistema Nacional de Trânsito.",
+      "Departamento Nacional de Trânsito."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 8,
+    "pergunta": "Ao Departamento de Trânsito (DETRAN), cabe, entre outras, a atribuição de:",
+    "opcoes": [
+      "Propor a alteração da sinalização.",
+      "Organizar estatística de trânsito em todo o país.",
+      "Vistoriar, registrar e emplacar veículos.",
+      "Emitir carteira internacional."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 9,
+    "pergunta": "O infrator que julgar improcedente a penalidade de multa que lhe foi aplicada, poderá interpor recurso, em 1ª instância, junto a (o):",
+    "opcoes": [
+      "CETRAN",
+      "DENATRAN",
+      "CONTRAN",
+      "JARI"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 10,
+    "pergunta": "Organizar e manter o Registro Nacional de Carteiras de Habilitação - RENACH, compete ao:",
+    "opcoes": [
+      "CONTRAN",
+      "DENATRAN",
+      "DETRAN",
+      "CETRAN"
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 11,
+    "pergunta": "Organizar e manter o Registro Nacional de Veículos Automotores RENAVAM, compete ao:",
+    "opcoes": [
+      "DETRAN",
+      "CETRAN",
+      "CONTRAN",
+      "DENATRAN"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 12,
+    "pergunta": "Os Departamentos de Estradas e Rodagens são órgãos:",
+    "opcoes": [
+      "Normativos do Sistema Nacional de Trânsito.",
+      "Com jurisdição em todo território nacional.",
+      "Executivos Rodoviários, do Sistema Nacional de Trânsito.",
+      "Normativos do Conselho Nacional de Trânsito."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 13,
+    "pergunta": "Expedir, mediante delegação do DENATRAN, o documento de habilitação (CNH, PPD ou ACC) e os documentos do veículo (CRV ou CLA), é competência do:",
+    "opcoes": [
+      "DETRAN",
+      "CETRAN",
+      "CONTRANDIFE",
+      "DENATRAN"
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 14,
+    "pergunta": "Realizar, fiscalizar e controlar o processo de formação, aperfeiçoamento, reciclagem e suspensão de condutores, expedir e cassar Licença de Aprendizagem, Permissão para Dirigir e Carteira Nacional de Habilitação, mediante, delegação do órgão federal competente, é de responsabilidade do:",
+    "opcoes": [
+      "DENATRAN.",
+      "DETRAN.",
+      "CETRAN.",
+      "CONTRAN."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 15,
+    "pergunta": "É competência da JARI:",
+    "opcoes": [
+      "Cumprir e fazer cumprir a legislação de trânsito e a execução das normas e diretrizes estabelecidas pelo CONTRAN, no âmbito de suas atribuições.",
+      "Administrar fundo de âmbito Nacional destinado à segurança e educação de trânsito.",
+      "Julgar os recursos interpostos pelos infratores.",
+      "Coletar dados, elaborar estudos sobre acidentes de trânsito e suas causas."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 16,
+    "pergunta": "Vistoriar, inspecionar quanto às condições de segurança veicular, registrar, emplacar, selar a placa, licenciar veículos, expedindo o Certificado de Registro e o Licenciamento Anual, mediante delegação do órgão federal competente, é de responsabilidade:",
+    "opcoes": [
+      "Órgãos e entidades executivos de trânsito dos Estados e do Distrito Federal, no âmbito de sua circunscrição.",
+      "Órgãos e entidades executivos rodoviários da União e dos Estados, no âmbito de sua circunscrição.",
+      "Polícias Militares dos Estados e do Distrito Federal.",
+      "Departamento Nacional de Infraestrutura de Trânsito."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 17,
+    "pergunta": "A autorização para conduzir veículos de propulsão humana e de tração animal ficará a cargo do:",
+    "opcoes": [
+      "Estado",
+      "DETRAN",
+      "Município",
+      "DENATRAN"
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 18,
+    "pergunta": "Obedece a legislação municipal do domicílio ou residência de seus proprietários, o registro e o licenciamento dos veículos de:",
+    "opcoes": [
+      "Somente os ciclomotores e bicicletas.",
+      "Propulsão humana e de tração animal.",
+      "Reboque, semirreboque e bonde.",
+      "Somente os de propulsão humana."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 19,
+    "pergunta": "Assinale a alternativa correta: Compete aos órgãos e entidades executivos de trânsito dos Municípios, no âmbito de sua circunscrição:",
+    "opcoes": [
+      "Estabelecer procedimentos sobre a aprendizagem e habilitação de condutores de veículos, a expedição de documentos de condutores, de registro e licenciamento de veículos.",
+      "Proceder à supervisão, à coordenação, à correção do órgão delegado, ao controle e à fiscalização da Política Nacional de Trânsito e do Programa Nacional de Trânsito.",
+      "Fiscalizar o nível de emissão de poluentes e ruído produzidos pelos veículos automotores ou pela sua carga.",
+      "Conceder autorização para conduzir veículos de propulsão humana e de tração animal; registrar e licenciar na forma da legislação, veículos de propulsão humana e de tração animal."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 20,
+    "pergunta": "A fiscalização da gestão de trânsito poderá ser realizada com a utilização de aparelhos que, quanto ao modo de operação, podem ser classificados em:",
+    "opcoes": [
+      "Automático e não automático.",
+      "Radar e medidor ótico.",
+      "Fixo, estátil, móvel e portátil.",
+      "Eletrônico e audiovisual."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 21,
+    "pergunta": "Somente poderá transitar pelas vias terrestres o veículo cujo peso e dimensões atenderem aos limites estabelecidos pelo:",
+    "opcoes": [
+      "DENATRAN.",
+      "CONTRAN.",
+      "DETRAN.",
+      "CONTRANDIFE."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 22,
+    "pergunta": "Os órgãos técnicos e consultivos destinam-se a realizar estudos e oferecer sugestões sobre assuntos específicos. É chamado de:",
+    "opcoes": [
+      "Jari",
+      "DENATRAN",
+      "CETRAN",
+      "Câmaras Temáticas"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual o órgão máximo normativo, da união?",
+    "opcoes": [
+      "CONTRAN.",
+      "CETRAN.",
+      "CONTRANDIFE.",
+      "CIRETRAN."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 24,
+    "pergunta": "A qual órgão abaixo compete criar Câmaras Temáticas?",
+    "opcoes": [
+      "DENATRAN.",
+      "CONTRAN.",
+      "DETRAN.",
+      "As JARIs."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 25,
+    "pergunta": "São órgãos recursais, de primeira instância:",
+    "opcoes": [
+      "CONTRAN",
+      "PRF",
+      "JARI's",
+      "CETRAN"
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 26,
+    "pergunta": "A função exercida pela PRF com o objetivo de garantir obediência às normas de trânsito é:",
+    "opcoes": [
+      "Fiscalização.",
+      "Operação.",
+      "Policiamento",
+      "Patrulhamento"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 27,
+    "pergunta": "Encaminhar, aos órgãos e entidades de trânsito, informações sobre problemas apontados em recursos, compete:",
+    "opcoes": [
+      "As JARIs.",
+      "Ao CONTRAN.",
+      "Ao DENATRAN.",
+      "Ao CETRAN."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 28,
+    "pergunta": "O Sistema Nacional de Trânsito é integrado por:",
+    "opcoes": [
+      "Órgãos normativos e executivos;",
+      "Órgãos de direção e executivos;",
+      "Órgãos executivos;",
+      "Órgãos colegiados e temáticos."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 29,
+    "pergunta": "Realizar, fiscalizar e controlar o processo de habilitação, aperfeiçoamento, reciclagem e suspensão de condutores, é competência:",
+    "opcoes": [
+      "Dos órgãos executivos de trânsito da União.",
+      "Dos órgãos executivos dos Estados.",
+      "Dos órgãos executivos rodoviários dos Estados.",
+      "Dos órgãos normativos dos Estados."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 30,
+    "pergunta": "A receita arrecadada com a cobrança das multas de trânsito será aplicada em:",
+    "opcoes": [
+      "Sinalização.",
+      "Engenharia de tráfego.",
+      "Policiamento",
+      "Todas as afirmativas acima."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  }
+]

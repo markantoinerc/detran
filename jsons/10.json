@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O bom funcionamento do veículo depende de manutenções e trocas de vários componentes, líquidos e lubrificantes. Indique abaixo os itens que devem ser verificados com maior frequência:",
+    "opcoes": [
+      "Nível de óleo da caixa de câmbio e lonas de freio.",
+      "Nível de óleo, de água e calibragem dos pneus.",
+      "Filtro de combustível e bomba d’água.",
+      "Filtro de ar e velas de ignição."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 2,
+    "pergunta": "Os gases gerados pelo motor são eliminados:",
+    "opcoes": [
+      "Pela ventilação do motor.",
+      "Pelo silenciador.",
+      "Pelo escapamento.",
+      "Pela ventoinha."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 3,
+    "pergunta": "A falta de balanceamento das rodas pode acarretar:",
+    "opcoes": [
+      "Direção dura.",
+      "Trepidações.",
+      "Rangido dos pneus nas curvas.",
+      "Chassi deformado."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 4,
+    "pergunta": "O sistema utilizado para um veículo descrever uma trajetória circular é o de:",
+    "opcoes": [
+      "Direção.",
+      "Elétrico.",
+      "Arrefecimento.",
+      "Transmissão."
+    ],
+    "resposta_correta": "A",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 5,
+    "pergunta": "O filtro de ar tem como função:",
+    "opcoes": [
+      "Filtrar o ar que refrigera o motor.",
+      "Filtrar o combustível.",
+      "Filtrar o óleo lubrificante.",
+      "Filtrar o ar que vai para a câmara de explosão do motor."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 6,
+    "pergunta": "A vela de ignição tem como função:",
+    "opcoes": [
+      "Fornecer centelha elétrica na câmara de explosão.",
+      "Interromper a corrente elétrica.",
+      "Aquecer o combustível.",
+      "Aquecer o ar da câmara de explosão."
+    ],
+    "resposta_correta": "A",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 7,
+    "pergunta": "A função do silenciador no veículo é:",
+    "opcoes": [
+      "Criar a centelha necessária para a explosão da mistura de ar e combustível.",
+      "Permitir uma partida suave do veículo.",
+      "Diminuir os ruídos vindos da descarga dos gases gerados pelo motor.",
+      "Reduzir, drasticamente, os níveis de emissão de gases."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 8,
+    "pergunta": "O sistema de lubrificação tem a função de:",
+    "opcoes": [
+      "Aquecer as peças móveis do motor.",
+      "Alimentar o atrito e esquentar o motor para obter maior potência.",
+      "Reduzir a emissão de gases poluentes.",
+      "Lubrificar as peças móveis do motor, evitando o atrito."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 9,
+    "pergunta": "A finalidade do filtro de combustível é:",
+    "opcoes": [
+      "Controlar a pressão de combustível.",
+      "Evitar o excesso de combustível.",
+      "Reter as impurezas do ar.",
+      "Reter as impurezas do combustível."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 10,
+    "pergunta": "Um dos cuidados que se deve ter, periodicamente, com o veículo é:",
+    "opcoes": [
+      "Lavar os tapetes para evitar ferrugem.",
+      "Trocar a água do radiador mensalmente.",
+      "Lavar os pneus evitando derrapagens.",
+      "Verificar o nível do óleo do motor."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 11,
+    "pergunta": "Os principais sistemas do veículo são:",
+    "opcoes": [
+      "Motor, câmbio, diferencial, freio.",
+      "Motor, transmissão, direção, suspensão, freio.",
+      "Motor, embreagem, cardã, eixo motriz, semiárvore.",
+      "Motor, molas, amortecedores, pneus."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 12,
+    "pergunta": "A finalidade do sistema de arrefecimento é:",
+    "opcoes": [
+      "Controlar as rotações do motor.",
+      "Evitar o atrito das peças móveis do motor.",
+      "Manter a temperatura ideal de trabalho do motor.",
+      "Reduzir a potência do motor."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 13,
+    "pergunta": "O freio de estacionamento, geralmente, atua:",
+    "opcoes": [
+      "Nas rodas dianteiras.",
+      "Na transmissão.",
+      "Nas rodas traseiras.",
+      "Nas rodas traseiras e dianteiras."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 14,
+    "pergunta": "O instrumento do painel que indica a velocidade desenvolvida pelo veículo é o:",
+    "opcoes": [
+      "Odômetro.",
+      "Tacógrafo.",
+      "Velocímetro.",
+      "Manômetro."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 15,
+    "pergunta": "O sistema, cuja finalidade é absorver os choques provocados pelas irregularidades da pavimentação chama-se:",
+    "opcoes": [
+      "Diferencial.",
+      "Direção.",
+      "Transmissão.",
+      "Suspensão."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 16,
+    "pergunta": "A peça mais pesada do motor chama-se:",
+    "opcoes": [
+      "Cilindros ou camisas",
+      "Bloco do motor",
+      "Tampão",
+      "Cárter"
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 17,
+    "pergunta": "O sistema que mantém a temperatura do motor, sempre, em condições de funcionamento chama-se:",
+    "opcoes": [
+      "Alimentação.",
+      "Elétrico.",
+      "Arrefecimento.",
+      "Inflamação."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 18,
+    "pergunta": "Para reduzir o consumo de combustível e a poluição do meio ambiente é recomendável:",
+    "opcoes": [
+      "Manter o sistema de alimentação regulado.",
+      "Efetuar troca das pastilhas de freios.",
+      "Efetuar troca do óleo lubrificante.",
+      "Verificar a carga da bateria."
+    ],
+    "resposta_correta": "A",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 19,
+    "pergunta": "Para que ocorra a combustão interna em um motor são necessários os seguintes elementos:",
+    "opcoes": [
+      "Combustível e água.",
+      "Combustível e vapor de água.",
+      "Ar e combustível.",
+      "Água e Nitrogênio."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 20,
+    "pergunta": "A função da caixa de câmbio é:",
+    "opcoes": [
+      "Aumentar ou diminuir a força ou a velocidade do veículo.",
+      "Aumentar ou diminuir o aquecimento do motor.",
+      "Diminuir o atrito dos pneus nas curvas.",
+      "Diminuir o desgaste da embreagem."
+    ],
+    "resposta_correta": "A",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 21,
+    "pergunta": "O sistema que tem como finalidade diminuir a velocidade ou parar o veículo chama-se:",
+    "opcoes": [
+      "Sistema de alimentação.",
+      "Sistema de freios.",
+      "Sistema de distribuição.",
+      "Sistema de lubrificação."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 22,
+    "pergunta": "O filtro de óleo lubrificante do motor tem a função de:",
+    "opcoes": [
+      "Tornar o óleo mais fino.",
+      "Reter as impurezas do óleo.",
+      "Tornar o óleo mais viscoso.",
+      "Manter o nível do óleo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 23,
+    "pergunta": "O conjunto de peças que serve para ligar e desligar a força motriz à caixa de marchas, chama-se:",
+    "opcoes": [
+      "Volante do motor.",
+      "Embreagem.",
+      "Diferencial.",
+      "Semiárvore."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 24,
+    "pergunta": "A peça que tampa a parte inferior do motor e serve como reservatório e coletor do óleo lubrificante chama-se:",
+    "opcoes": [
+      "Tampão.",
+      "Tanque de combustível.",
+      "Cárter.",
+      "Pistão."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 25,
+    "pergunta": "O tempo do motor no qual a mistura se inflama, chama-se:",
+    "opcoes": [
+      "Admissão.",
+      "Compressão.",
+      "Descarga.",
+      "Explosão."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 26,
+    "pergunta": "Pneus dianteiros com calibragem muito abaixo do normal podem acarretar:",
+    "opcoes": [
+      "Todas as opções estão corretas.",
+      "Desgastes prematuros dos mesmos.",
+      "Estabilidade comprometida.",
+      "Dificuldades nas manobras."
+    ],
+    "resposta_correta": "A",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 27,
+    "pergunta": "O distribuidor faz parte do sistema:",
+    "opcoes": [
+      "Elétrico.",
+      "Automático.",
+      "Transmissão.",
+      "Arrefecimento."
+    ],
+    "resposta_correta": "A",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 28,
+    "pergunta": "É recomendável que se troque o extintor de incêndio do meu veículo automotor:",
+    "opcoes": [
+      "Após o uso.",
+      "Se apresentar alguma irregularidade.",
+      "No vencimento do teste hidrostático.",
+      "Todas as alternativas estão corretas."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 29,
+    "pergunta": "Os ruídos emitidos pelo funcionamento do motor de um veículo são reduzidos pelo:",
+    "opcoes": [
+      "Carburador.",
+      "Radiador.",
+      "Catalisador.",
+      "Silenciador."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 30,
+    "pergunta": "O termômetro é utilizado para indicar:",
+    "opcoes": [
+      "Alterações na composição do fluido de freio.",
+      "A temperatura do motor.",
+      "A temperatura no interior do veículo.",
+      "A temperatura no exterior do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  }
+]

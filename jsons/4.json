@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "O condutor que for multado por desobedecer a sinalização de parada obrigatória, terá anotado em seu prontuário a pontuação equivalente a:",
+    "opcoes": [
+      "Quatro pontos.",
+      "Três pontos.",
+      "Sete pontos.",
+      "Cinco pontos."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 2,
+    "pergunta": "É motivo para apreensão do veículo, quando o condutor for surpreendido dirigindo:",
+    "opcoes": [
+      "Sem usar lentes corretoras.",
+      "Com a validade da Carteira Nacional de Habilitação vencida há mais de trinta dias.",
+      "Sob a influência de álcool.",
+      "Sem possuir documento de habilitação."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 3,
+    "pergunta": "O que não é obrigatório constar no auto de infração?",
+    "opcoes": [
+      "Identificação do veículo.",
+      "Prontuário do condutor.",
+      "Identificação do agente fiscalizador.",
+      "Tipificação da infração cometida."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 4,
+    "pergunta": "Dirigir veículo com Carteira Nacional de Habilitação ou Permissão para Dirigir cassada ou com suspensão do direito de dirigir é infração, com fator agravante, tendo como medidas administrativas e.",
+    "opcoes": [
+      "Gravíssima; x5; recolhimento da habilitação; retenção do veículo.",
+      "Grave; x5; recolhimento da habilitação; remoção do veículo.",
+      "Gravíssima; x3; recolhimento da habilitação; retenção do veículo.",
+      "Gravíssima; x2; recolhimento da habilitação; remoção do veículo."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 5,
+    "pergunta": "O condutor habilitado na categoria “B” que dirigir uma motocicleta será punido com:",
+    "opcoes": [
+      "Multa e advertência pelo Diretor Geral do DETRAN.",
+      "Multa e cassação da Carteira Nacional de Habilitação.",
+      "Multa e prisão.",
+      "Multa grave x2 e retenção do veículo até a apresentação de condutor habilitado."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 6,
+    "pergunta": "Dirigir veículo sem as adaptações impostas pela Comissão de Exames Especiais do DETRAN por ocasião da concessão ou da renovação de licença para dirigir, constitui infração _____________, gerando como penalidade ____________.",
+    "opcoes": [
+      "Gravíssima; retenção do veículo.",
+      "Gravíssima; multa.",
+      "Grave; multa (três vezes).",
+      "Grave; advertência por escrito."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 7,
+    "pergunta": "A pena de detenção atribuída ao condutor que pratica lesão corporal culposa na direção de veículo automotor é de:",
+    "opcoes": [
+      "1 a 2 anos.",
+      "1 mês a 2 anos.",
+      "6 meses a 2 anos.",
+      "2 a 4 anos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 8,
+    "pergunta": "A multa reparatória, determinada pelo Código de Trânsito Brasileiro destina-se a:",
+    "opcoes": [
+      "Reparar ou indenizar prejuízo material que tenha resultado de crime.",
+      "Indenizar qualquer prejuízo material.",
+      "Suspender a penalidade de cassação da Carteira Nacional de Habilitação.",
+      "Indenizar dano moral."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 9,
+    "pergunta": "O pagamento da multa poderá ser efetuado até a data do vencimento expressa na notificação, por:",
+    "opcoes": [
+      "100% do seu valor.",
+      "80% do seu valor.",
+      "50% do seu valor.",
+      "90% do seu valor"
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 10,
+    "pergunta": "A notificação da penalidade da multa a pessoal de missões diplomáticas, de repartições consulares de carreira e de seus integrantes será remetida ao:",
+    "opcoes": [
+      "Ministério do Exército.",
+      "Ministério da Justiça.",
+      "Ministério das Cidades.",
+      "Ministério das Relações Exteriores."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 11,
+    "pergunta": "O pagamento da multa poderá ser efetuado, até a data do vencimento, com desconto de:",
+    "opcoes": [
+      "40%.",
+      "80%.",
+      "20%.",
+      "30%."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 12,
+    "pergunta": "As penalidades aplicadas em razão dos crimes cometidos na direção do veículo automotor não são agravadas quando o condutor dirigir:",
+    "opcoes": [
+      "Utilizando o veículo sem placas, com placas falsas ou adulteradas.",
+      "Sem possuir Permissão para Dirigir ou Carteira Nacional de Habilitação.",
+      "Com a Carteira Nacional de Habilitação vencida há mais de trinta dias.",
+      "Com Permissão para Dirigir ou Carteira Nacional de Habilitação de categoria diferente da do veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 13,
+    "pergunta": "A pena de detenção atribuída ao condutor que pratica homicídio culposo na direção do veículo automotor é de:",
+    "opcoes": [
+      "2 a 4 anos.",
+      "6 meses a 1 ano.",
+      "6 meses a 2 anos.",
+      "1 a 4 anos."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 14,
+    "pergunta": "As penalidades atribuídas ao condutor que dirige veículo sob a influência de álcool, são:",
+    "opcoes": [
+      "Multa (três vezes) e suspensão do direito de dirigir.",
+      "Multa (três vezes) e cassação do documento de habilitação.",
+      "Multa (cinco vezes) e advertência por escrito.",
+      "Multa (dez vezes) e suspensão do direito de dirigir."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 15,
+    "pergunta": "Deixar o condutor ou passageiro de usar o cinto de segurança é infração ________, gerando a penalidade de __________.",
+    "opcoes": [
+      "Grave; multa.",
+      "Gravíssima; multa (três vezes).",
+      "Gravíssima; multa ( cinco vezes).",
+      "Gravíssima; multa."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 16,
+    "pergunta": "Dirigir com falta de atenção e os cuidados indispensáveis à segurança do trânsito é infração punível com:",
+    "opcoes": [
+      "Multa e apreensão da Carteira Nacional de Habilitação.",
+      "Multa.",
+      "Advertência por escrito.",
+      "Multa e apreensão do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 17,
+    "pergunta": "A retenção do veículo dar-se-á quando:",
+    "opcoes": [
+      "Não estiver devidamente licenciado ou registrado.",
+      "Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
+      "Transportar carga, arrastando-a.",
+      "Tiver falsificado os selos da placa."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 18,
+    "pergunta": "Usar o veículo para arremessar, sobre os pedestres ou veículos, água ou detritos, ou atirar do veículo ou abandonar na via objetos ou substâncias, constitui infração:",
+    "opcoes": [
+      "Média",
+      "Leve",
+      "Grave",
+      "Gravíssima"
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 19,
+    "pergunta": "Disputar corrida ação gravíssima, gerando como penalidade:",
+    "opcoes": [
+      "Multa; cassação do documento de habilitação.",
+      "Multa (dez vezes); recolhimento do documento de habilitação e remoção do veículo.",
+      "Multa (três vezes) suspensão do direito de dirigir e apreensão do veículo.",
+      "Multa (cinco vezes), retenção do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 20,
+    "pergunta": "Usar a buzina nas áreas urbanas, no período entre às 22 (vinte e duas) e 06 (seis) horas, é infração punível com:",
+    "opcoes": [
+      "Multa e apreensão do veículo.",
+      "Multa e retenção do veículo.",
+      "Multa e remoção do veículo.",
+      "Multa"
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 21,
+    "pergunta": "A remoção do veículo, como medida administrativa, é aplicada quando o condutor:",
+    "opcoes": [
+      "Tiver seu veículo imobilizado na via por falta de combustível.",
+      "Estacionar na contramão de direção.",
+      "Parar o veículo em desacordo com posições estabelecidas.",
+      "Deixar de prestar socorro à vítima de acidente de trânsito."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 22,
+    "pergunta": "A distância que se deve guardar para que um veículo automotor possa estacionar antes ou depois da esquina é:",
+    "opcoes": [
+      "A partir de 3 (três) metros.",
+      "05 (cinco) metros do bordo do alinhamento da via transversal.",
+      "Menos de 03 (três) metros da via transversal.",
+      "Entre 03 (três) e 10 (dez) metros do alinhamento de construção da via transversal."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 23,
+    "pergunta": "Na infração “Estacionar o veículo afastado da guia da calçada de cinquenta centímetros a um metro” são computados os seguintes pontos.",
+    "opcoes": [
+      "(07) sete.",
+      "(04) quatro.",
+      "(05) cinco.",
+      "(03) três."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 24,
+    "pergunta": "Parar o veículo na área de cruzamento de vias, prejudicando a circulação de veículos e pedestres, nos viadutos, pontes e túneis e na contramão de direção é infração:",
+    "opcoes": [
+      "Grave",
+      "Gravíssima",
+      "Média",
+      "Leve"
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 25,
+    "pergunta": "Transitar pela contramão de direção em vias com duplo sentido de circulação, exceto para ultrapassar outro veículo e apenas pelo tempo necessário, respeitada a preferência do veículo que transitar em sentido contrário é infração __________, gerando como penalidade__________.",
+    "opcoes": [
+      "Gravíssima; multa (três vezes).",
+      "Gravíssima; multa.",
+      "Grave; multa (cinco vezes).",
+      "Grave; multa."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 26,
+    "pergunta": "Quando o condutor transitar ao lado de outro veículo, interrompendo ou perturbando o trânsito, será punido com:",
+    "opcoes": [
+      "Multa.",
+      "Remoção do veículo e multa.",
+      "Apreensão do veículo e multa.",
+      "Retenção do veículo e multa."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 27,
+    "pergunta": "Deixar de guardar distância de segurança lateral e frontal entre o seu veículo e os demais, bem como em relação ao bordo da pista, considerando-se, no momento, a velocidade, as condições climáticas do local da circulação e do veículo é infração:",
+    "opcoes": [
+      "Gravíssima",
+      "Grave",
+      "Média",
+      "Leve"
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 28,
+    "pergunta": "O condutor que desobedecer às ordens emanadas da autoridade de trânsito ou de seus agentes será punido com:",
+    "opcoes": [
+      "Advertência escrita pelo diretor do DETRAN.",
+      "Multa e advertência pelo diretor do DETRAN.",
+      "Multa e apreensão da Carteira Nacional de Habilitação.",
+      "Multa."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 29,
+    "pergunta": "Ultrapassar outro veículo pelo acostamento, em interseções e passagens de nível é infração ________, gerando como penalidade __________.",
+    "opcoes": [
+      "Gravíssima; multa (cinco vezes) e suspensão do direito de dirigir.",
+      "Gravíssima; multa.",
+      "Grave; multa (cinco vezes).",
+      "Gravíssima; multa (três vezes)."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 30,
+    "pergunta": "Na infração “avançar o sinal vermelho do semáforo” são computados os seguintes pontos:",
+    "opcoes": [
+      "(03) três.",
+      "(05) cinco.",
+      "(04) quatro.",
+      "(07) sete."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  }
+]

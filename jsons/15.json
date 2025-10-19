@@ -1,0 +1,362 @@
+[
+  {
+    "id": 121,
+    "pergunta": "Qual a principal função do farol de luz baixa durante o dia, para veículos de transporte coletivo e ciclos motorizados?",
+    "opcoes": [
+      "Indicar a intenção de ultrapassagem aos demais condutores.",
+      "Garantir maior visibilidade do veículo e fazê-lo ser visto mais facilmente.",
+      "Reduzir o ofuscamento causado pela luz solar direta.",
+      "Apenas cumprir uma norma do CTB sem efeito prático."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 122,
+    "pergunta": "O que deve ser verificado periodicamente e com maior frequência nos pneus de um veículo?",
+    "opcoes": [
+      "O desgaste da lateral da banda de rodagem (TWI).",
+      "A calibragem e o estado de conservação dos sulcos.",
+      "A cor e a marca de conformidade do INMETRO.",
+      "Apenas o pneu sobressalente (estepe) antes de viagens longas."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 123,
+    "pergunta": "Em relação à documentação do veículo, qual documento é obrigatório ser portado pelo condutor para transitar na via?",
+    "opcoes": [
+      "Certificado de Registro de Veículo (CRV).",
+      "Comprovante de pagamento do Imposto sobre a Propriedade de Veículos Automotores (IPVA).",
+      "Certificado de Licenciamento Anual (CLA).",
+      "O documento de habilitação (CNH ou PPD) e o comprovante do seguro obrigatório."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 124,
+    "pergunta": "Qual das seguintes ações é considerada um crime de trânsito?",
+    "opcoes": [
+      "Dirigir com a CNH vencida há mais de 30 dias.",
+      "Dirigir sob a influência de álcool ou de outra substância psicoativa que determine dependência.",
+      "Estacionar o veículo em local proibido pela sinalização.",
+      "Transitar em velocidade superior à máxima permitida em até 20%."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 125,
+    "pergunta": "Em caso de acidente com vítima inconsciente, qual o procedimento prioritário a ser verificado pelo socorrista?",
+    "opcoes": [
+      "Se a vítima está com fraturas expostas.",
+      "A pulsação e a frequência respiratória.",
+      "Se a vítima pode se levantar e andar.",
+      "O sangramento na cabeça e membros."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 126,
+    "pergunta": "A placa de advertência A-18 (Saliência ou Lombada) alerta o condutor sobre:",
+    "opcoes": [
+      "A existência de uma depressão na pista.",
+      "Aproximação de uma curva acentuada.",
+      "A existência de saliência, lombada ou ondulação transversal sobre a superfície de rolamento.",
+      "Um trecho de pista que pode tornar-se escorregadia."
+    ],
+    "resposta_correta": "C",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 127,
+    "pergunta": "Qual a finalidade principal do sistema de arrefecimento (resfriamento) do motor?",
+    "opcoes": [
+      "Reduzir o atrito entre as peças móveis do motor.",
+      "Manter a temperatura ideal de trabalho do motor, evitando o superaquecimento.",
+      "Filtrar as impurezas do óleo lubrificante.",
+      "Aumentar a pressão interna para a combustão da mistura ar-combustível."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 128,
+    "pergunta": "Ao se aproximar de um trecho de via sob neblina ou cerração, o condutor deve adotar qual procedimento?",
+    "opcoes": [
+      "Manter o farol alto ligado e a velocidade normal para passar rapidamente pela neblina.",
+      "Reduzir a velocidade, manter o farol baixo aceso e redobrar a atenção.",
+      "Ligar o pisca-alerta e parar no acostamento para aguardar a melhoria da visibilidade.",
+      "Buzinar para alertar outros motoristas e pedestres sobre a sua presença."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 129,
+    "pergunta": "Em qual sistema do veículo o 'radiador' atua, tendo a função de resfriar o líquido que circula para reduzir o calor do motor?",
+    "opcoes": [
+      "Sistema de Lubrificação.",
+      "Sistema de Transmissão.",
+      "Sistema de Alimentação.",
+      "Sistema de Arrefecimento."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 130,
+    "pergunta": "Qual dos comportamentos abaixo é um exemplo de infração média, punida com multa, para o condutor?",
+    "opcoes": [
+      "Dirigir sem atenção ou sem os cuidados indispensáveis à segurança.",
+      "Avançar o sinal vermelho do semáforo.",
+      "Dirigir veículo segurando ou manuseando telefone celular.",
+      "Estacionar o veículo na pista de rolamento de rodovias."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 131,
+    "pergunta": "Em vias de duplo sentido de circulação, a circulação pela contramão é permitida ao condutor:",
+    "opcoes": [
+      "Em nenhuma hipótese, sendo sempre proibida.",
+      "Quando for ultrapassar outro veículo e, somente, pelo espaço necessário a esse fim.",
+      "Em trechos longos, desde que a visibilidade seja suficiente.",
+      "Para fazer uma conversão à direita, em locais não sinalizados."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 132,
+    "pergunta": "A penalidade de Cassação da Permissão para Dirigir (PPD) ocorrerá se o condutor cometer, no período de 1 ano, qual tipo de infração?",
+    "opcoes": [
+      "Uma infração de natureza leve.",
+      "Uma infração de natureza média.",
+      "Qualquer infração de natureza grave ou gravíssima, ou ser reincidente em infração média.",
+      "Apenas infrações que prevejam, por si só, a suspensão do direito de dirigir."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 133,
+    "pergunta": "Qual a principal característica dos sinais de advertência que os diferencia das placas de regulamentação?",
+    "opcoes": [
+      "Possuem formato circular e fundo branco.",
+      "Transmitem mensagens de caráter imperativo e sua desobediência constitui infração.",
+      "Possuem formato quadrado (losango) e fundo amarelo, com caráter de recomendação.",
+      "São exclusivamente utilizados em vias urbanas."
+    ],
+    "resposta_correta": "C",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 134,
+    "pergunta": "Qual a principal razão pela qual o uso de pneus carecas (com sulcos inferiores a 1,6 mm) é perigoso, principalmente em piso molhado?",
+    "opcoes": [
+      "Aumenta a durabilidade dos pneus.",
+      "Reduz o consumo de combustível.",
+      "Compromete a aderência e aumenta o risco de aquaplanagem.",
+      "Melhora a estabilidade do veículo em alta velocidade."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 135,
+    "pergunta": "Qual a função do velocímetro no painel do veículo?",
+    "opcoes": [
+      "Indicar a rotação do motor em RPM.",
+      "Indicar a distância total percorrida pelo veículo (Hodômetro Total).",
+      "Indicar a temperatura da água de arrefecimento.",
+      "Indicar a velocidade que o veículo está desenvolvendo em km/h."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 136,
+    "pergunta": "Qual a finalidade das marcas longitudinais seccionadas ou tracejadas de cor branca (LMS-2) em uma via com o mesmo sentido de circulação?",
+    "opcoes": [
+      "Proibir a ultrapassagem entre as faixas.",
+      "Indicar o trecho em que a ultrapassagem e a transposição de faixa são permitidas.",
+      "Delimitar áreas de estacionamento regulamentado.",
+      "Separar fluxos opostos de circulação."
+    ],
+    "resposta_correta": "B",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 137,
+    "pergunta": "Qual das alternativas abaixo representa um dos principais poluentes do ar lançado pelos veículos, sendo resultado da combustão incompleta do carvão e do petróleo?",
+    "opcoes": [
+      "Dióxido de carbono (CO₂).",
+      "Vapor de água (H₂O).",
+      "Monóxido de carbono (CO).",
+      "Oxigênio (O₂)."
+    ],
+    "resposta_correta": "C",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 138,
+    "pergunta": "O que a penalidade de Cassação da CNH impõe ao condutor infrator?",
+    "opcoes": [
+      "A CNH continua válida após o cumprimento do prazo de suspensão.",
+      "O documento de habilitação perde a validade, e o infrator deverá reiniciar todo o processo de habilitação após 2 anos.",
+      "O condutor poderá dirigir veículo com CNH de categoria diferente, após o período de cassação.",
+      "A CNH é recolhida e só é devolvida após a conclusão do curso de reciclagem."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 139,
+    "pergunta": "Qual é a penalidade imposta ao condutor que 'dirige veículo falando ao telefone celular' (Art. 252, parágrafo único do CTB)?",
+    "opcoes": [
+      "Multa de natureza grave.",
+      "Multa de natureza média.",
+      "Multa de natureza gravíssima.",
+      "Advertência por escrito e retenção do veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 140,
+    "pergunta": "A ausência ou ineficiência de qual componente do sistema de escape pode aumentar a poluição sonora do veículo?",
+    "opcoes": [
+      "O catalisador.",
+      "O silenciador (ou abafador).",
+      "O coletor de escape.",
+      "O filtro de ar."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 141,
+    "pergunta": "Qual a medida administrativa a ser adotada quando o condutor for flagrado 'Dirigindo veículo com a validade da CNH vencida há mais de trinta dias'?",
+    "opcoes": [
+      "Remoção do veículo.",
+      "Recolhimento da CNH e retenção do veículo até a apresentação de condutor habilitado.",
+      "Cassação da CNH e multa (5x).",
+      "Apreensão do veículo e suspensão do direito de dirigir."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 142,
+    "pergunta": "Qual a classificação dos acidentes de trânsito em que o condutor não fez tudo o que razoavelmente poderia ter feito para evitá-lo?",
+    "opcoes": [
+      "Inevitável.",
+      "Misterioso.",
+      "Evitável.",
+      "Ambiental."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 143,
+    "pergunta": "Qual a principal função dos sulcos (frisos) na banda de rodagem dos pneus?",
+    "opcoes": [
+      "Reduzir o aquecimento excessivo do freio.",
+      "Permitir o escoamento da água, garantindo a aderência e prevenindo a aquaplanagem.",
+      "Aumentar a rigidez da carcaça, prevenindo furos.",
+      "Diminuir o atrito com o solo, para economia de combustível."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 144,
+    "pergunta": "Em relação à sinalização semafórica, o que a luz amarela indica ao condutor?",
+    "opcoes": [
+      "Permissão de passagem (siga).",
+      "Término do direito de passagem (atenção), devendo parar o veículo se for possível fazê-lo com segurança.",
+      "Ordem de parada obrigatória e imediata.",
+      "Advertência sobre situação perigosa ou obstáculo na via."
+    ],
+    "resposta_correta": "B",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 145,
+    "pergunta": "Qual o procedimento correto para o condutor de motocicleta ao acionar os freios?",
+    "opcoes": [
+      "Acionar somente o freio dianteiro para evitar derrapagem da roda traseira.",
+      "Acionar somente o freio traseiro para melhor controle da motocicleta.",
+      "Acionar os freios dianteiro e traseiro simultaneamente, de forma gradual e sem travar a roda.",
+      "Acionar os freios de forma brusca para garantir a parada total no menor tempo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 146,
+    "pergunta": "A penalidade de suspensão do direito de dirigir será imposta ao condutor comum (que não exerce atividade remunerada) que atingir quantos pontos no prontuário, no período de 12 meses, se não tiver cometido nenhuma infração gravíssima?",
+    "opcoes": [
+      "20 pontos.",
+      "30 pontos.",
+      "40 pontos.",
+      "19 pontos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 147,
+    "pergunta": "Em qual sistema do veículo as peças 'amortecedores', 'molas' e 'barra estabilizadora' atuam, absorvendo as vibrações das irregularidades da pista?",
+    "opcoes": [
+      "Sistema de Direção.",
+      "Sistema de Transmissão.",
+      "Sistema de Freios.",
+      "Sistema de Suspensão."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 148,
+    "pergunta": "O que o pedestre deve fazer ao se deparar com um sinal semafórico na cor vermelha com o pictograma (símbolo) de pedestre aceso?",
+    "opcoes": [
+      "Pode atravessar rapidamente a via, pois a preferência é do pedestre.",
+      "Aguardar, pois a indicação luminosa proíbe a travessia.",
+      "Atravessar a via, mas com muita atenção aos veículos.",
+      "Pode iniciar a travessia apenas em vias de mão única."
+    ],
+    "resposta_correta": "B",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 149,
+    "pergunta": "Qual a penalidade e medida administrativa para o condutor que utilizar o veículo para 'arremessar, sobre os pedestres ou veículos, água ou detritos' (Art. 171 do CTB)?",
+    "opcoes": [
+      "Multa de natureza média.",
+      "Multa de natureza grave e retenção do veículo.",
+      "Multa de natureza gravíssima e suspensão do direito de dirigir.",
+      "Advertência por escrito e remoção do veículo."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 150,
+    "pergunta": "Qual a classificação dos acidentes causados por 'falhas humanas', que incluem a imprudência, negligência e imperícia?",
+    "opcoes": [
+      "Acidentes naturais.",
+      "Acidentes misteriosos.",
+      "Acidentes evitáveis.",
+      "Acidentes inevitáveis."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  }
+]

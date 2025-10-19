@@ -1,0 +1,362 @@
+[
+  {
+    "id": 61,
+    "pergunta": "Qual a principal finalidade da Junta Administrativa de Recursos de Infrações (JARI)?",
+    "opcoes": [
+      "Julgar, em primeira instância, os recursos interpostos pelos infratores.",
+      "Organizar e manter o Registro Nacional de Veículos Automotores (RENAVAM).",
+      "Estabelecer as normas regulamentares do Código de Trânsito Brasileiro (CTB).",
+      "Expedir a Carteira Nacional de Habilitação (CNH) e os documentos do veículo."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 62,
+    "pergunta": "A penalidade de Cassação da CNH ocorrerá quando o condutor, suspenso do direito de dirigir, for flagrado:",
+    "opcoes": [
+      "Cometendo uma infração de natureza gravíssima.",
+      "Conduzindo qualquer veículo automotor em via pública.",
+      "Reincidindo em infrações de natureza média no período de 12 meses.",
+      "Deixando de prestar socorro à vítima de acidente de trânsito."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 63,
+    "pergunta": "O que a força centrífuga tende a fazer com o veículo durante uma curva?",
+    "opcoes": [
+      "Empurrar o veículo para dentro da curva, aumentando a aderência.",
+      "Puxar o veículo para fora da curva, exigindo correção na direção.",
+      "Manter o veículo estável, independentemente da velocidade.",
+      "Aumentar a distância de frenagem, forçando o uso do freio motor."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 64,
+    "pergunta": "Em qual sistema do veículo o 'Distribuidor' tem a função de levar a corrente de ignição para os diversos cilindros?",
+    "opcoes": [
+      "Sistema de Alimentação.",
+      "Sistema de Arrefecimento.",
+      "Sistema Elétrico/Ignição.",
+      "Sistema de Transmissão."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 65,
+    "pergunta": "Em caso de amputação de um membro da vítima, o procedimento correto a ser adotado é:",
+    "opcoes": [
+      "Colocar a parte amputada diretamente no gelo para conservação.",
+      "Fazer um torniquete para conter o sangramento e remover a vítima para o hospital mais próximo.",
+      "Fazer compressão para conter o sangramento e transportar a parte amputada, acondicionada em saco plástico e gelo, junto com a vítima para o hospital.",
+      "Desprezar a parte amputada e focar no socorro da vítima, devido à prioridade."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 66,
+    "pergunta": "Para garantir a fluidez e segurança do trânsito, as faixas mais à esquerda da pista de rolamento são destinadas:",
+    "opcoes": [
+      "Aos veículos lentos e de maior porte.",
+      "Aos veículos de transporte coletivo em circulação.",
+      "À ultrapassagem e ao deslocamento dos veículos de maior velocidade.",
+      "Ao estacionamento temporário e à operação de carga e descarga."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 67,
+    "pergunta": "Qual a finalidade das placas de sinalização de Regulamentação (placas circulares com tarja vermelha)?",
+    "opcoes": [
+      "Advertir os usuários sobre condições perigosas na via.",
+      "Informar sobre direções e distâncias a serem percorridas.",
+      "Regulamentar proibições, obrigações ou restrições no uso das vias.",
+      "Fornecer ao usuário informações sobre serviços auxiliares."
+    ],
+    "resposta_correta": "C",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 68,
+    "pergunta": "A poluição do ar, causada pela emissão de gases e partículas pelos veículos, resulta principalmente em:",
+    "opcoes": [
+      "Corrosão das peças metálicas do veículo.",
+      "Doenças do aparelho digestivo e alterações visuais.",
+      "Problemas respiratórios e agravamento de doenças como asma e bronquite.",
+      "Aquaplanagem e derrapagem em dias de chuva."
+    ],
+    "resposta_correta": "C",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 69,
+    "pergunta": "Em relação aos pneus, qual a profundidade mínima de sulcos (frisos da banda de rodagem) para que sejam considerados em condições seguras de circulação?",
+    "opcoes": [
+      "2,5 milímetros.",
+      "1,0 milímetros.",
+      "1,6 milímetros.",
+      "3,0 milímetros."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 70,
+    "pergunta": "O procedimento de 'observar, prever e decidir' faz parte dos cinco elementos da condução defensiva, representando a atitude constante do condutor para trafegar com:",
+    "opcoes": [
+      "Alto grau de agressividade e imprudência.",
+      "Margem de segurança e antecipação aos riscos.",
+      "Atenção fixa e distração no ambiente.",
+      "Baixo conhecimento e total dependência do veículo."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 71,
+    "pergunta": "O que é considerado trânsito, de acordo com o CTB?",
+    "opcoes": [
+      "Apenas a circulação de veículos automotores nas vias terrestres.",
+      "A utilização das vias por pessoas, veículos e animais, isolados ou em grupos, para fins de circulação, parada, estacionamento e operação de carga ou descarga.",
+      "A movimentação exclusiva de pedestres nas calçadas e acostamentos.",
+      "O conjunto de vias urbanas (ruas e avenidas) destinadas à circulação."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 72,
+    "pergunta": "Qual a classificação de um veículo misto, como uma Camioneta, destinado ao transporte simultâneo de passageiros e carga no mesmo compartimento, quanto à espécie?",
+    "opcoes": [
+      "Passageiros.",
+      "Tração.",
+      "Misto.",
+      "Carga."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 73,
+    "pergunta": "O que o condutor deve fazer com a Permissão para Dirigir (PPD) após o período de 1 ano, se não tiver cometido infração grave ou gravíssima nem for reincidente em média?",
+    "opcoes": [
+      "Reiniciar todo o processo de habilitação.",
+      "Trocar pela PPD de outra categoria.",
+      "Solicitar a Carteira Nacional de Habilitação (CNH) definitiva.",
+      "Manter a PPD, pois ela terá validade indeterminada."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 74,
+    "pergunta": "Ao ser ultrapassado em uma rodovia, qual o procedimento correto do condutor?",
+    "opcoes": [
+      "Acelerar a marcha para impedir a ultrapassagem.",
+      "Sinalizar, diminuir a velocidade e deslocar para o acostamento.",
+      "Deslocar-se para a faixa da direita, sem acelerar a marcha, facilitando a ultrapassagem.",
+      "Manter a velocidade e a faixa de circulação."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 75,
+    "pergunta": "O que os termos 'Ciclovia' e 'Ciclofaixa' representam, de acordo com as definições do CTB?",
+    "opcoes": [
+      "Vias ou conjunto de vias destinadas à circulação prioritária de pedestres.",
+      "Pistas destinadas à circulação de ciclos, sendo a ciclovia separada fisicamente do tráfego comum e a ciclofaixa delimitada por sinalização na pista de rolamento.",
+      "Locais públicos destinados ao estacionamento de bicicletas.",
+      "Vias rurais não pavimentadas de uso exclusivo de bicicletas."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 76,
+    "pergunta": "O que o condutor deve fazer imediatamente ao acender a luz vermelha de advertência de 'pressão do óleo do motor' no painel?",
+    "opcoes": [
+      "Continuar a dirigir até a próxima oficina, pois o problema é pequeno.",
+      "Parar o veículo imediatamente para evitar que o motor 'funda' por falta de lubrificação.",
+      "Verificar o nível do combustível, pois a luz pode estar acesa por engano.",
+      "Continuar a dirigir, pois a luz vermelha da pressão do óleo não é grave."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 77,
+    "pergunta": "Qual das alternativas abaixo é um procedimento incorreto em caso de sangramento (hemorragia) abundante na vítima de acidente?",
+    "opcoes": [
+      "Fazer compressão no local do sangramento com gaze ou pano limpo.",
+      "Dar bastante líquido para a vítima tomar, a fim de repor o sangue perdido.",
+      "Manter a vítima deitada e acalmá-la.",
+      "Evitar o contato direto com o sangue da vítima."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 78,
+    "pergunta": "O que caracteriza a imprudência na direção defensiva?",
+    "opcoes": [
+      "Falta de habilidade e conhecimento ao realizar manobras.",
+      "Falta de observação e atenção na manutenção do veículo.",
+      "Ação em que o condutor assume riscos, mesmo conhecendo as regras de segurança.",
+      "Inexperiência do condutor, resultando em acidentes leves."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 79,
+    "pergunta": "Qual dos elementos abaixo é um dos principais poluentes do ar lançado pelos veículos automotores, afetando a capacidade de oxigenação da hemoglobina?",
+    "opcoes": [
+      "Vapor de água.",
+      "Monóxido de carbono.",
+      "Dióxido de enxofre.",
+      "Aldeídos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 80,
+    "pergunta": "Qual a cor da luz que indica para o condutor a permissão do direito de passagem em um semáforo veicular, permitindo iniciar ou prosseguir a marcha?",
+    "opcoes": [
+      "Vermelha.",
+      "Amarela.",
+      "Verde.",
+      "Amarela Intermitente."
+    ],
+    "resposta_correta": "C",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 81,
+    "pergunta": "O condutor que for reprovado no exame escrito (legislação de trânsito) ou de prática de direção veicular poderá repetir o exame após quantos dias da divulgação do resultado?",
+    "opcoes": [
+      "No 15º dia da divulgação do resultado.",
+      "No 16º dia da divulgação do resultado.",
+      "No dia seguinte da divulgação do resultado.",
+      "Após 30 dias da reprovação."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 82,
+    "pergunta": "Qual a classificação da infração e a pontuação no prontuário do condutor por avançar o sinal vermelho do semáforo ou o de parada obrigatória (Art. 208 do CTB)?",
+    "opcoes": [
+      "Grave, 5 pontos.",
+      "Gravíssima, 7 pontos.",
+      "Média, 4 pontos.",
+      "Gravíssima, 5 pontos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 83,
+    "pergunta": "Qual a distância mínima de sulco (ranhura) que um pneu deve ter para garantir o escoamento da água e a aderência adequada do veículo ao solo?",
+    "opcoes": [
+      "0,5 mm.",
+      "1,6 mm.",
+      "2,5 mm.",
+      "3,0 mm."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 84,
+    "pergunta": "Qual o procedimento correto para o condutor de motocicleta ao realizar uma curva?",
+    "opcoes": [
+      "Reduzir a velocidade utilizando o freio bruscamente no meio da curva.",
+      "Aumentar a aceleração para sair rapidamente da curva.",
+      "Manter a aceleração constante, inclinando o corpo e a moto no mesmo sentido da curva.",
+      "Inclinar o corpo para fora da curva, mantendo a motocicleta reta."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 85,
+    "pergunta": "Qual o limite de velocidade máximo para transitar em vias coletoras onde não existir sinalização regulamentadora?",
+    "opcoes": [
+      "80 km/h.",
+      "60 km/h.",
+      "40 km/h.",
+      "30 km/h."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 86,
+    "pergunta": "A falta de manutenção no sistema de arrefecimento pode resultar em superaquecimento do motor, o que é indicado pelo acendimento de qual luz no painel?",
+    "opcoes": [
+      "Luz do óleo.",
+      "Luz da bateria.",
+      "Luz de temperatura (termômetro).",
+      "Luz da injeção eletrônica."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 87,
+    "pergunta": "Qual das atitudes abaixo é um exemplo de automatismo incorreto que deve ser evitado pelo condutor defensivo?",
+    "opcoes": [
+      "Manter as mãos no volante na posição '9 horas e 15 minutos'.",
+      "Pisar no pedal da embreagem antes de usar o pedal do freio.",
+      "Utilizar o pedal da embreagem como apoio para o pé esquerdo.",
+      "Observar constantemente os espelhos retrovisores."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 88,
+    "pergunta": "Qual a finalidade das placas de sinalização de Advertência (placas amarelas em formato de losango)?",
+    "opcoes": [
+      "Regulamentar proibições e restrições na via.",
+      "Alertar os usuários para condições potencialmente perigosas à frente.",
+      "Indicar direções e serviços auxiliares.",
+      "Orientar pedestres em travessias e faixas exclusivas."
+    ],
+    "resposta_correta": "B",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 89,
+    "pergunta": "Qual a principal causa da perda da capacidade auditiva para o ser humano no trânsito?",
+    "opcoes": [
+      "A alta velocidade dos veículos nas rodovias.",
+      "A exposição constante a ruídos excessivos (poluição sonora).",
+      "O uso de buzina em áreas urbanas à noite.",
+      "A ingestão de bebidas alcoólicas."
+    ],
+    "resposta_correta": "B",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 90,
+    "pergunta": "Em relação à distância de parada total do veículo, qual dos fatores a seguir é o que mais contribui para o aumento dessa distância?",
+    "opcoes": [
+      "A velocidade do veículo.",
+      "O tempo de reação do condutor.",
+      "As condições de aderência dos pneus ao solo.",
+      "O tempo necessário para acionar os freios."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  }
+]

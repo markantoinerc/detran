@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "As inspeções periódicas de emissão de gases, nos veículos automotores e indústrias, podem ajudar a melhorar as condições de vida dos habitantes dos centros urbanos, pois objetivam:",
+    "opcoes": [
+      "Contribuir para a segurança dos veículos.",
+      "Reduzir as emissões dos poluentes.",
+      "Diminuir o desgaste do motor.",
+      "Diminuir a emissão de ozônio."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 2,
+    "pergunta": "Substâncias corrosivas são aquelas:",
+    "opcoes": [
+      "Que causam danos ambientais.",
+      "Que não apresentam riscos para os seres vivos.",
+      "Que não contém micro-organismos infecciosos.",
+      "Que não oferecem perigo em contato com a pele."
+    ],
+    "resposta_correta": "A",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 3,
+    "pergunta": "Os rótulos de risco identificados na planilha, com o título MOPE, são usados nos veículos destinados ao transporte de:",
+    "opcoes": [
+      "Produtos artesanais.",
+      "Cargas indivisíveis.",
+      "Cargas perecíveis.",
+      "Produtos perigosos."
+    ],
+    "resposta_correta": "D",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 4,
+    "pergunta": "Um dos principais problemas urbanos é o excesso de emissão de ruídos (poluição sonora). Os proprietários de veículos podem ajudar na redução deste problema, desde que:",
+    "opcoes": [
+      "Regulem periodicamente o motor.",
+      "Mantenham o silenciador em bom estado.",
+      "Todas as respostas estão corretas.",
+      "Não utilizem livremente os dispositivos sonoros dos veículos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 5,
+    "pergunta": "O órgão coordenador do meio ambiente em todo o Território Nacional é o:",
+    "opcoes": [
+      "INMETRO.",
+      "CONAMA.",
+      "DETRAN.",
+      "DENATRAN."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 6,
+    "pergunta": "Nas grandes cidades, as principais fontes de poluição do ar são:",
+    "opcoes": [
+      "As queimadas.",
+      "A queima de carvão.",
+      "Os automóveis e as indústrias.",
+      "Os incineradores."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 7,
+    "pergunta": "Exercitar a cidadania é:",
+    "opcoes": [
+      "Manter, sempre, os faróis altos acesos.",
+      "Jogar lixo ou qualquer objeto pela janela do veículo.",
+      "Danificar as plantações às margens das vias rurais.",
+      "Preservar a natureza, usufruindo dos recursos que nos é dado."
+    ],
+    "resposta_correta": "D",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 8,
+    "pergunta": "O veículo automotor para não poluir o ambiente, precisa trafegar:",
+    "opcoes": [
+      "Emitindo gases poluentes acima do permitido.",
+      "Emitindo fuligem.",
+      "Com o motor regulado.",
+      "Com o sistema de escapamento danificado."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 9,
+    "pergunta": "A chuva ácida provoca:",
+    "opcoes": [
+      "Crescimento das florestas.",
+      "Derretimento das calotas polares.",
+      "Desertificação.",
+      "Conservação das estruturas de mármore."
+    ],
+    "resposta_correta": "D",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 10,
+    "pergunta": "O condutor para transportar um produto perigoso deve se submeter ao Curso de Treinamento denominado:",
+    "opcoes": [
+      "DD - Direção Defensiva.",
+      "MOPE - Movimentação de Produtos Especiais.",
+      "PS - Primeiros Socorros.",
+      "MA - Meio Ambiente."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 11,
+    "pergunta": "O meio ambiente engloba em seus estudos gerais:",
+    "opcoes": [
+      "O homem, a natureza e os catalisadores.",
+      "O homem, a natureza e os poluentes.",
+      "O homem, as perspectivas teóricas e as mutações da fauna.",
+      "O homem, a natureza e seus elementos."
+    ],
+    "resposta_correta": "D",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 12,
+    "pergunta": "São fatores que contribuem para melhorar o meio ambiente:",
+    "opcoes": [
+      "Todas as alternativas estão corretas.",
+      "Fazer manutenção periódica nos veículos.",
+      "Reciclagem de materiais.",
+      "Redução de gases poluentes através da colocação de filtros."
+    ],
+    "resposta_correta": "A",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 13,
+    "pergunta": "A má conservação e a regulagem inadequada dos veículos:",
+    "opcoes": [
+      "Contribuem, principalmente, para a poluição do ar e a poluição sonora.",
+      "Contribuem para a poluição da água, apenas.",
+      "Não agridem o meio ambiente.",
+      "Acarretam, única e exclusivamente, o desgaste do veículo."
+    ],
+    "resposta_correta": "A",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 14,
+    "pergunta": "Somos cidadãos quando:",
+    "opcoes": [
+      "Sempre percebemos atitudes inadequadas dos outros e ignoramos as nossas.",
+      "Buzinamos para avisar o condutor da frente, que o sinal está aberto.",
+      "Temos um comportamento positivo, eficaz, contribuindo sempre para a segurança de todos.",
+      "Estacionamos em local proibido, mesmo que seja por alguns minutos."
+    ],
+    "resposta_correta": "C",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 15,
+    "pergunta": "Não é orgão ambiental:",
+    "opcoes": [
+      "IBAMA.",
+      "CONAMA.",
+      "FEAM.",
+      "CIRETRAN."
+    ],
+    "resposta_correta": "D",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 16,
+    "pergunta": "Assinale a alternativa correta. Dos elementos, abaixo citados, não contribui para a poluição do ar:",
+    "opcoes": [
+      "Fuligem.",
+      "Vapor de água.",
+      "Queimadas.",
+      "Monóxido de carbono."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 17,
+    "pergunta": "É uma vantagem da utilização do álcool como combustível:",
+    "opcoes": [
+      "Maior consumo por quilômetro rodado.",
+      "Apresentar pequenos problemas de partida quando frio.",
+      "Ser menos poluente.",
+      "Aumenta a corrosão interna."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 18,
+    "pergunta": "Cidadania é:",
+    "opcoes": [
+      "A qualidade ou estado de cidadão.",
+      "O conjunto de elementos naturais e a vida em todas as formas.",
+      "O desenvolvimento desequilibrado do cidadão.",
+      "O meio ambiente hostil."
+    ],
+    "resposta_correta": "A",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 19,
+    "pergunta": "Os gases emitidos pelos veículos são perigosos para a saúde do homem porque podem:",
+    "opcoes": [
+      "Causar irritação nos olhos e garganta.",
+      "Agravar moléstias respiratórias como asma e bronquite.",
+      "Provocar dores de cabeça e enjôo.",
+      "Todas as alternativas estão corretas."
+    ],
+    "resposta_correta": "D",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 20,
+    "pergunta": "Quando o acidente envolve cargas perigosas e liberação de produtos químicos no meio ambiente, deve-se, primeiramente:",
+    "opcoes": [
+      "Isolar rapidamente o local, avaliar o perigo para si mesmo e depois tentar o socorro.",
+      "Acionar um caminhão pipa para jogar água, limpar e liberar rapidamente a rodovia.",
+      "Tentar liberar parte da rodovia sinalizando o local.",
+      "Se não houver risco de explosão, socorrer as vítimas sem outros receios."
+    ],
+    "resposta_correta": "A",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 21,
+    "pergunta": "A emissão de sons, ruídos e vibrações que prejudicam a saúde e o bem estar público, estão contidos na:",
+    "opcoes": [
+      "Poluição sonora.",
+      "Poluição do solo.",
+      "Poluição da água.",
+      "Poluição do ar."
+    ],
+    "resposta_correta": "A",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 22,
+    "pergunta": "O trânsito em condições seguras é um direito:",
+    "opcoes": [
+      "Dos pedestres.",
+      "Dos motoristas de transporte coletivo.",
+      "De todos.",
+      "Dos animais."
+    ],
+    "resposta_correta": "C",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 23,
+    "pergunta": "Ruído é um tipo de poluição:",
+    "opcoes": [
+      "Radioativa.",
+      "Atmosférica.",
+      "Sonora.",
+      "Aquática."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 24,
+    "pergunta": "Em caso de acidente com veículo transportando produtos inflamáveis, o procedimento correto do condutor é:",
+    "opcoes": [
+      "Providenciar, o mais rápido possível, o escoamento do produto.",
+      "Sinalizar o local com tochas de fogo.",
+      "Isolar o local.",
+      "Efetuar, primeiramente, a limpeza do veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 25,
+    "pergunta": "Substâncias tóxicas são aquelas que:",
+    "opcoes": [
+      "Contêm micro-organismos infecciosos.",
+      "Liberam gás ou vapor venenoso.",
+      "Liberam o oxigênio.",
+      "Para serem transportadas devem estar altamente refrigeradas."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 26,
+    "pergunta": "O CONAMA e as agências ambientais do estado e do município têm como principais preocupações:",
+    "opcoes": [
+      "A conservação dos equipamentos de segurança das estradas.",
+      "A orientação do fluxo de veículos nas vias urbanas.",
+      "A fiscalização da produção de veículos.",
+      "A defesa da saúde e do meio ambiente."
+    ],
+    "resposta_correta": "D",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 27,
+    "pergunta": "Com relação ao meio ambiente, as queimadas provocam:",
+    "opcoes": [
+      "Reflorestamento natural.",
+      "Danos ao meio ambiente.",
+      "Insônia.",
+      "Aumento dos clorofluorcarbonetos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 28,
+    "pergunta": "A poluição do ar causa problemas de saúde que resultam, principalmente, em:",
+    "opcoes": [
+      "Doenças do aparelho digestivo.",
+      "Doenças respiratórias.",
+      "Alterações visuais.",
+      "Doenças do aparelho locomotor."
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 29,
+    "pergunta": "A má conservação e a regulagem inadequada dos veículos automotores contribuem, principalmente para:",
+    "opcoes": [
+      "Poluição da água.",
+      "Poluição do solo.",
+      "Poluição do ar e a poluição sonora.",
+      "Desgaste do veículo."
+    ],
+    "resposta_correta": "C",
+    "tema": "Meio Ambiente"
+  },
+  {
+    "id": 30,
+    "pergunta": "Não constitui efeitos danosos do ruído:",
+    "opcoes": [
+      "Insônia",
+      "Efeito estufa.",
+      "Irritabilidade.",
+      "Dores de cabeça"
+    ],
+    "resposta_correta": "B",
+    "tema": "Meio Ambiente"
+  }
+]

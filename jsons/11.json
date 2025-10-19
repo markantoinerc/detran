@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "pergunta": "Qual é a principal função da Direção Defensiva Preventiva?",
+    "opcoes": [
+      "Corrigir rapidamente uma situação de risco inesperada.",
+      "Identificar antecipadamente as situações de perigo e se preparar para elas.",
+      "Dirigir em velocidade reduzida em qualquer tipo de via e condição.",
+      "Reagir imediatamente após a ocorrência de um acidente."
+    ],
+    "resposta_correta": "B",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 2,
+    "pergunta": "Qual é a classificação da infração e a pontuação no prontuário do condutor por não utilizar o cinto de segurança, conforme o Art. 167 do CTB?",
+    "opcoes": [
+      "Gravíssima, 7 pontos.",
+      "Grave, 5 pontos.",
+      "Média, 4 pontos.",
+      "Leve, 3 pontos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 3,
+    "pergunta": "Qual é a distância mínima de seguimento que o condutor deve manter do veículo à frente?",
+    "opcoes": [
+      "25 metros.",
+      "A distância de reação somada à distância de frenagem.",
+      "10 metros, independentemente da velocidade.",
+      "A distância que permita acionar os freios e parar sem colidir, considerando 2 segundos."
+    ],
+    "resposta_correta": "D",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 4,
+    "pergunta": "A desobediência a qual tipo de sinalização vertical NÃO constitui infração de trânsito, por possuir apenas caráter informativo ou educativo?",
+    "opcoes": [
+      "Regulamentação.",
+      "Advertência.",
+      "Indicação.",
+      "Semafórica de regulamentação."
+    ],
+    "resposta_correta": "C",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 5,
+    "pergunta": "O extintor de incêndio nos automóveis (veículos de passeio) é um equipamento de uso:",
+    "opcoes": [
+      "Obrigatório apenas para carros com GNV.",
+      "Facultativo, por opção do proprietário.",
+      "Obrigatório para todos os veículos, sem exceção.",
+      "Obrigatório apenas para veículos de transporte de carga."
+    ],
+    "resposta_correta": "B",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 6,
+    "pergunta": "Em caso de acidente de trânsito com vítima, a primeira providência do cidadão comum deve ser:",
+    "opcoes": [
+      "Movimentar a vítima para um local mais seguro.",
+      "Acionar imediatamente os órgãos de socorro e sinalizar o local.",
+      "Dar líquidos para a vítima, caso ela peça.",
+      "Verificar a gravidade da lesão antes de qualquer outra ação."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 7,
+    "pergunta": "Qual a principal causa da aquaplanagem ou hidroplanagem?",
+    "opcoes": [
+      "O desgaste excessivo do sistema de freios.",
+      "A baixa calibragem dos pneus, independentemente do piso.",
+      "A formação de uma camada de água entre o pneu e o solo, causando perda de aderência.",
+      "O uso do freio de mão em curvas de raio acentuado."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 8,
+    "pergunta": "Ao atingir a contagem de 20 pontos no período de 12 meses, qual penalidade será imposta ao condutor comum (que não exerce atividade remunerada) que cometeu 2 ou mais infrações gravíssimas?",
+    "opcoes": [
+      "Cassação da CNH.",
+      "Frequência obrigatória em curso de reciclagem e advertência por escrito.",
+      "Suspensão do direito de dirigir.",
+      "Multa agravada em 5 vezes."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 9,
+    "pergunta": "A poluição sonora, causada pelos ruídos excessivos do trânsito, provoca qual dos seguintes efeitos na saúde humana?",
+    "opcoes": [
+      "Melhora na capacidade de concentração.",
+      "Redução da capacidade auditiva, estresse e insônia.",
+      "Aceleração do metabolismo e aumento da atenção difusa.",
+      "Somente danos aos equipamentos eletrônicos."
+    ],
+    "resposta_correta": "B",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 10,
+    "pergunta": "Em uma via urbana sem sinalização, o condutor que vier pela direita do outro veículo terá preferência de passagem, exceto em quais situações?",
+    "opcoes": [
+      "Em caso de rotatória ou quando apenas um fluxo for proveniente de rodovia.",
+      "Quando o fluxo de tráfego for mais intenso ou em trechos de aclive acentuado.",
+      "Somente em vias de trânsito rápido.",
+      "Em interseções controladas por semáforos."
+    ],
+    "resposta_correta": "A",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 11,
+    "pergunta": "Os freios, a suspensão e os pneus do veículo são equipamentos e sistemas que influenciam diretamente na:",
+    "opcoes": [
+      "Estética do veículo.",
+      "Diminuição do consumo de combustível.",
+      "Potência do motor.",
+      "Segurança e estabilidade do veículo."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 12,
+    "pergunta": "Qual a finalidade principal do Registro Nacional de Condutores Habilitados (RENACH)?",
+    "opcoes": [
+      "Controlar o licenciamento anual e a transferência de propriedade dos veículos.",
+      "Manter o registro de infrações e acidentes em todo o território nacional.",
+      "Registrar a identificação, habilitação e todas as informações relativas ao condutor.",
+      "Coordenar os órgãos e entidades do Sistema Nacional de Trânsito."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 13,
+    "pergunta": "A linha simples contínua (LFO-1) de cor amarela, quando aposta na via, tem a função de:",
+    "opcoes": [
+      "Permitir a ultrapassagem e a transposição de faixa para os dois sentidos.",
+      "Regulamentar os trechos em que a ultrapassagem e os deslocamentos laterais são proibidos para os dois sentidos.",
+      "Delimitar o espaço disponível para cada faixa, indicando que a ultrapassagem é permitida apenas em um sentido.",
+      "Separar movimentos veiculares de mesmo sentido."
+    ],
+    "resposta_correta": "B",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 14,
+    "pergunta": "Ao se aproximar de um cruzamento, o condutor do veículo deve demonstrar prudência especial, transitando em velocidade moderada. Qual é o objetivo principal dessa conduta?",
+    "opcoes": [
+      "Reduzir a marcha, utilizando o freio motor.",
+      "Manter a preferência de passagem sobre os demais veículos.",
+      "Poder deter o veículo com segurança para dar passagem a pedestres e a veículos com direito de preferência.",
+      "Avisar os outros condutores sobre sua presença na via."
+    ],
+    "resposta_correta": "C",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 15,
+    "pergunta": "O que o condutor deve fazer ao verificar, ao longo do percurso, que o nível do óleo do motor está abaixo do mínimo na vareta de medição?",
+    "opcoes": [
+      "Parar o veículo e adicionar água imediatamente.",
+      "Continuar a viagem, pois o óleo será reposto automaticamente pelo sistema.",
+      "Completar o nível do óleo, verificando as especificações do fabricante e o prazo de troca.",
+      "Drenar todo o óleo e substituí-lo por um novo, sem necessidade de ir a um posto."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 16,
+    "pergunta": "Qual é o requisito de altura mínimo para que crianças com idade inferior a 10 anos possam ser transportadas nos bancos dianteiros, em veículos que não possuam banco traseiro?",
+    "opcoes": [
+      "Possuir a Permissão para Dirigir (PPD).",
+      "Não há requisito de altura, apenas de idade.",
+      "Ter atingido a altura de 1,45 m.",
+      "Ser transportada em dispositivo de retenção tipo 'assento de elevação'."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 17,
+    "pergunta": "Em caso de acidentes com vítima, qual é o procedimento incorreto a ser realizado por um socorrista não profissional?",
+    "opcoes": [
+      "Acionar o resgate especializado (SAMU, Bombeiros) e informar o local.",
+      "Movimentar a vítima ou retirar o capacete de um motociclista.",
+      "Proteger a vítima contra o frio, sol ou chuva.",
+      "Manter a vítima no local, a menos que haja risco iminente de novo acidente."
+    ],
+    "resposta_correta": "B",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 18,
+    "pergunta": "As placas indicativas de \"Serviços Auxiliares\" são mais necessárias em qual tipo de via?",
+    "opcoes": [
+      "Vias urbanas de trânsito rápido, devido ao grande volume de veículos.",
+      "Vias rurais (estradas e rodovias), onde os serviços são mais escassos e distantes.",
+      "Vias coletoras, por exigirem maior atenção dos condutores.",
+      "Vias locais, por terem maior número de pedestres."
+    ],
+    "resposta_correta": "B",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 19,
+    "pergunta": "A circulação de motocicletas, motonetas e ciclomotores nas vias está condicionada a qual dos seguintes equipamentos obrigatórios para o condutor?",
+    "opcoes": [
+      "Cinto de segurança de três pontos.",
+      "Colete de segurança com faixas refletivas.",
+      "Capacete de segurança com viseira ou óculos protetores.",
+      "Sistema de freios ABS de série."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 20,
+    "pergunta": "Qual das alternativas abaixo representa uma atitude de comportamento solidário e respeito mútuo no trânsito?",
+    "opcoes": [
+      "Ultrapassar um veículo que esteja parado na faixa de pedestres.",
+      "Não ceder a vez de passagem, priorizando seu direito.",
+      "Buzinar prolongadamente para apressar o pedestre.",
+      "Abrir mão da sua preferência em favor da segurança de todos."
+    ],
+    "resposta_correta": "D",
+    "tema": "Cidadania"
+  },
+  {
+    "id": 21,
+    "pergunta": "Qual a penalidade aplicada ao condutor que dirige ameaçando os pedestres ou os demais veículos, conforme o Art. 170 do CTB?",
+    "opcoes": [
+      "Multa, cassação da PPD e apreensão do veículo.",
+      "Multa (5x) e retenção do veículo.",
+      "Multa e suspensão do direito de dirigir.",
+      "Advertência por escrito e frequência em curso de reciclagem."
+    ],
+    "resposta_correta": "C",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 22,
+    "pergunta": "Em qual sistema do veículo o fluido de freio desempenha a função de transmitir a força utilizada ao pisar no pedal de freio para as rodas?",
+    "opcoes": [
+      "Sistema de suspensão.",
+      "Sistema de direção.",
+      "Sistema de arrefecimento.",
+      "Sistema de freios."
+    ],
+    "resposta_correta": "D",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 23,
+    "pergunta": "Qual a classificação das vias rurais, de acordo com o Art. 60 do CTB?",
+    "opcoes": [
+      "Vias de trânsito rápido e vias arteriais.",
+      "Estradas e Rodovias.",
+      "Vias coletoras e vias locais.",
+      "Vias urbanas e vias de acesso."
+    ],
+    "resposta_correta": "B",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 24,
+    "pergunta": "A Linha de Retenção (LRE) e a Linha de 'Dê a Preferência' (LDP) são exemplos de qual tipo de marca viária?",
+    "opcoes": [
+      "Marcas Longitudinais.",
+      "Marcas de Canalização.",
+      "Inscrições no pavimento.",
+      "Marcas Transversais."
+    ],
+    "resposta_correta": "D",
+    "tema": "Sinalização"
+  },
+  {
+    "id": 25,
+    "pergunta": "Em caso de vazamento de combustível ou óleo na pista, o que o condutor deve fazer para reduzir o risco de incêndio?",
+    "opcoes": [
+      "Afastar-se do local imediatamente e acionar o SAMU.",
+      "Tentar remover o produto com panos ou estopa.",
+      "Acender as luzes de emergência do veículo e cobrir o material com terra ou areia.",
+      "Lavar o local com água para diluir o produto."
+    ],
+    "resposta_correta": "C",
+    "tema": "Primeiros Socorros"
+  },
+  {
+    "id": 26,
+    "pergunta": "Qual a velocidade máxima permitida para automóveis, camionetas e motocicletas em rodovias de pista simples, onde não houver sinalização regulamentadora, de acordo com o Art. 61, §1º, II do CTB?",
+    "opcoes": [
+      "90 km/h.",
+      "80 km/h.",
+      "110 km/h.",
+      "100 km/h."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 27,
+    "pergunta": "Qual a principal função do catalisador no sistema de escape dos veículos?",
+    "opcoes": [
+      "Aumentar a potência do motor e a velocidade do veículo.",
+      "Reduzir a emissão de ruídos e aumentar o fluxo de gases.",
+      "Reduzir a emissão de gases tóxicos provenientes da queima do combustível.",
+      "Diminuir o consumo de combustível."
+    ],
+    "resposta_correta": "C",
+    "tema": "Mecânica Básica"
+  },
+  {
+    "id": 28,
+    "pergunta": "O condutor deve se orientar pela margem da direita quando sofrer ofuscamento por farol alto de veículo em sentido contrário. Qual é o principal risco que essa manobra visa evitar?",
+    "opcoes": [
+      "Colisão frontal.",
+      "Colisão traseira.",
+      "Derrapagem.",
+      "Saída de pista."
+    ],
+    "resposta_correta": "A",
+    "tema": "Direção Defensiva"
+  },
+  {
+    "id": 29,
+    "pergunta": "Em relação à ultrapassagem, é incorreto afirmar que:",
+    "opcoes": [
+      "Deve ser feita sempre pela esquerda, exceto quando o veículo a ser ultrapassado sinalizar o propósito de entrar à esquerda.",
+      "O condutor deve certificar-se de que a faixa a ser utilizada esteja livre numa extensão suficiente e segura.",
+      "É proibido ultrapassar em interseções e passagens de nível, exceto quando houver sinalização permitindo.",
+      "O veículo mais lento que estiver sendo ultrapassado deve aumentar a velocidade para ajudar o outro veículo a completar a manobra."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  },
+  {
+    "id": 30,
+    "pergunta": "A inobservância de qualquer preceito do Código de Trânsito Brasileiro (CTB) ou da legislação complementar, sujeitando o infrator a penalidades e medidas administrativas, é definida como:",
+    "opcoes": [
+      "Crime de Trânsito.",
+      "Negligência.",
+      "Imprudência.",
+      "Infração de Trânsito."
+    ],
+    "resposta_correta": "D",
+    "tema": "Legislação de Trânsito"
+  }
+]
